@@ -1,6 +1,7 @@
 ---
 layout: post
 title: hi
+permalink: hi
 ---
 
 # Hi
