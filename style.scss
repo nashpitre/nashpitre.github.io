@@ -30,38 +30,93 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
-
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
-
-  @include mobile {
-    line-height: 1.4;
-  }
+/* Headings */
+ h1, h2, h3, h4, h5, h6 {
+     margin-bottom: .5rem;
+    
+     font-weight: 500;
+     line-height: 1.25;
+     text-decoration: none;
+     color: #313131;
+     text-rendering: optimizeLegibility;
+}
+ h1 {
+     font-size: 1.326rem;
+   font-family: 'Electrolize', sans-serif;
+     line-height: 1.70rem;
+     font-weight: 600;
+     text-align: center;
+     color: #479db1;
+     text-transform: uppercase;
+     margin-bottom: 2rem;
+     margin-top: 2rem;
+}
+ h2 {
+     font-size: .820rem;
+     line-height: 1.40rem;
+     font-weight: bold;
+     text-align: left;
+     color: #10404E;
+     padding-left: 0;
+     text-transform: uppercase;
+     margin-bottom: 1.25rem;
+     margin-top: 1.25rem;
+}
+ h3 {
+     font-size: 0.786rem;
+     line-height: 1.45rem;
+     font-weight: bold;
+   font-family: 'Electrolize', sans-serif;
+     text-align: center;
+     padding-right: 2.00rem;
+     padding-left: 2.00rem;
+     color: #10404E;
+     text-transform: uppercase;
+     text-decoration: none;
+     margin-bottom: 2.2rem;
+     margin-top: 2rem;
+}
+ h4 {
+     background-color: #F2F2F2;
+     color: #10404E;
+     font-size: .720rem;
+     font-weight: bold;
+     line-height: 1.40rem;
+      font-family: 'Electrolize', sans-serif;
+     margin-bottom: 1.20rem;
+     margin-top: 1.20rem;
+     padding: 1.0rem;
+   border-radius: 30px 30px 30px 30px;
+     text-align: center;
+     text-transform: uppercase;
+     text-decoration: none;
+     }
+     
+      h5 {
+     background-color: #10404e;
+     color: #fff;
+         font-family: 'Electrolize', sans-serif;
+     font-size: .720rem;
+          border-radius: 30px 30px 30px 30px;
+     font-weight: bold;
+     line-height: 1.40rem;
+     margin-bottom: 1.25rem;
+     margin-top: 1.25rem;
+     padding: 1.0rem;
+     text-align: center;
+     text-transform: uppercase;
+     text-decoration: none;
 }
 
-h1 {
-  font-size: 30px;
-  a {
-    color: inherit;
-  }
-}
-
-h2 {
-  font-size: 24px;
-}
-
-h3 {
-  font-size: 20px;
-}
-
-h4 {
-  font-size: 18px;
-  color: $gray;
+ h6 {
+     font-size: 0.786rem;
+     line-height: 1.45rem;
+     font-weight: 500;
+     padding-right: 1.00rem;
+     padding-left: 1.00rem;
+     color: #10404E;
+     border-right: 2px dashed #479db1;
+     border-left: 2px dashed #479db1;
 }
 
 p {
