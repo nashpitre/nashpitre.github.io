@@ -346,3 +346,30 @@ footer {
 .faceit img {
      position: absolute;
 }
+ #img2 {
+     opacity: 0;
+     transition: opacity 2.5s;
+}
+ #about {
+     width: 384px;
+     margin: 0 auto;
+}
+ @media (max-width: 500px){
+     #about {
+         width: 100%;
+         margin: 0 auto;
+    }
+}
+ .centered {
+	text-align: center;
+	width: 100%;
+	vertical-align: middle;
+	margin-bottom: 2rem;
+}
+ .star {
+	animation: pulse 3s ease-out infinite;
+}
+ @keyframes pulse {
+    0%, 100% {opacity: 1}
+	50% {opacity: 0.1}
+}
