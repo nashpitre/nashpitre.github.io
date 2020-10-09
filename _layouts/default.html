@@ -8,7 +8,7 @@
     <a href="{{ site.baseurl }}" title="Home">
 		<img src="{{ site.baseurl }}/public/header.png">
 	</a>
-	  <center><span><a href="/about">Help</a> / <a href="/music">Music</a> / <a href="/shop">Shop</a></span></center>
+	  <center><span><a href="/about">HELP</a> / <a href="/music">MUSIC</a> / <a href="/shop">SHOP</a></span></center>
 	    
       <main>
         {{ content }}
@@ -21,10 +21,13 @@
 			<input type="hidden" name="return_to" value="https://nashp.com/404">
 		</form>
       </header>
-        <small>
           <br>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.title }}
-        </small>
+         <header class="masthead">
+      	<form class="contribute" action="https://nashp.memberful.com/checkout" method="get">
+			<input type="hidden" name="plan" value="53002"> <input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01"> <input type="submit" value="Contribute now">
+			<input type="hidden" name="return_to" value="https://nashp.com/404">
+		</form>
+      </header>
 	      
       </footer>
     </div>
