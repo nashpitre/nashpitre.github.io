@@ -6,14 +6,14 @@ title_separator          : "-"
 description              : "I'm Nash. I create things"
 favicon                  : "/assets/images/bird.png"
 avatar                   : "/assets/images/bird.png"
-url                      : "https://theconfused.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/sparrow" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+url                      : "https://nashpitre.github.io" # the base hostname & protocol for your site
+baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
 author:
   name                   : "Nash Pitre" # appears in the footer and atom feed
 
-comments                 : true # set it to false to disable comments
+comments                 : false # set it to false to disable comments
 disqus:
   shortname              : # sparrow-theme # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
@@ -24,7 +24,7 @@ og_image                 : "/assets/images/bird.png" # Open Graph/Twitter defaul
 
 # Social sharing
 twitter:
-  username               : # optional, for social sharing
+  username               : nashp # optional, for social sharing
 
 # Analytics
 analytics:
@@ -33,7 +33,8 @@ analytics:
 
 # Reading Files
 include:
-  - _pages
+- _pages
+
 # Files excluded from Jekyll builds
 exclude:
 - README.md
@@ -69,7 +70,7 @@ sass:
 
 
 # Outputting
-permalink: /blog/:title/
+permalink: /:title/
 
 pagination:
   enabled: true
@@ -82,10 +83,10 @@ pagination:
 
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-collections:
-  poetry:
-    output: true
-    permalink: /:collection/:title/
+#collections:
+#  poetry:
+#    output: true
+#    permalink: /:collection/:title/
 
 # Plugins
 gems:
@@ -99,26 +100,26 @@ whitelist:
 
 
 # Front matter defaults
-defaults:
+#defaults:
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
-      comments: false
+ # - scope:
+  #    path: ""
+   #   type: pages
+    #values:
+     # layout: page
+      #comments: false
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      comments: true
-      share: true
+  #- scope:
+   #   path: ""
+    #  type: posts
+    #values:
+     # layout: post
+      #comments: true
+      #share: true
   # _poetry
-  - scope:
-      path: ""
-      type: poetry
-    values:
-      layout: post
-      share: false
+  #- scope:
+   #   path: ""
+    #  type: poetry
+    #values:
+     # layout: post
+      #share: false
