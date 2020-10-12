@@ -1,29 +1,125 @@
-# Permalinks
-permalink:           /:title/
+# Site Settings
+encoding                 : "utf-8"
+locale                   : "en"
+title                    : "nashp.com"
+title_separator          : "-"
+description              : "I'm Nash. I create things."
+favicon                  : "/assets/images/logo.jpg"
+avatar                   : "/assets/images/logo.jpg"
+url                      : "https://nashpitre.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
-# Setup
-title:               nashp.com
-tagline:             I'm Nash. I Create Things.
-url:                 https://nashp.com
-paginate:            1
-baseurl:             "https://nashpitre.github.io"
-
-# Assets
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
+# Site Author
 author:
-  name:              Nash Pitre
-  url:               https://twitter.com/nashp
-  email:             nashp@me.com
+  name                   : "Nash Pitre" # appears in the footer and atom feed
 
-# Other
-timezone:            America/Chicago
+comments                 : false # set it to false to disable comments
+disqus:
+  shortname              : # sparrow-theme # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
-# Custom vars
-version:             4.0.0
-github:              https://github.com/nashpitre/
-repo:                https://github.com/nashpitre/nashpitre.github.io
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+
+og_image                 : "/assets/images/logo.jpg" # Open Graph/Twitter default site image, optional for seo and social sharing
+
+# Social sharing
+twitter:
+  username               : nashp # optional, for social sharing
+
+# Analytics
+analytics:
+  google:
+    tracking_id          : # add your google tracking id here
+
+# Reading Files
+include:
+- _pages
+
+# Files excluded from Jekyll builds
+exclude:
+- README.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:title/
+
+pagination:
+  enabled: true
+  per_page: 1
+  permalink: "/page:num/"
+  collection: "posts"
+  trail: 
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
+
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+collections:
+  poetry:
+    output: true
+    permalink: /:collection/:title/
+
+# Plugins
+gems:
+  - jekyll-paginate-v2
+  - jekyll-feed
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-feed
+
+
+# Front matter defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      comments: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # _poetry
+  - scope:
+      path: ""
+      type: poetry
+    values:
+      layout: post
+      share: false

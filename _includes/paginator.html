@@ -1,0 +1,8 @@
+{% if paginator.page_trail %}
+  <nav class="pagination">
+  {% for trail in paginator.page_trail %}
+    <li><a {% if page.url == trail.path %}class="disabled current"{% endif %} href="{{ trail.path | absolute_url }}" title="{{trail.title}}">{{ trail.num }}</a></li>
+  {% endfor %}
+  </nav>
+{% endif %}
+

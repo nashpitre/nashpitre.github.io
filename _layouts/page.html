@@ -2,7 +2,16 @@
 layout: default
 ---
 
-<article class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</article>
+<div id="main" role="main">
+  {% include topnav.html %}
+
+  <div class="page">
+      {% if page.title %}
+        <h1 class="page__title">{{ page.title }}</h1>
+      {% endif %}
+      {% if page.subtitle %}
+        <p class="page__subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    {{ content }}
+  </div>
+</div>

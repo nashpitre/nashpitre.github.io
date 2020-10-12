@@ -1,1 +1,1 @@
-# I'm Nash. I Create Things.
+# I'm Nash. I create things.

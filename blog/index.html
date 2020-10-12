@@ -1,0 +1,13 @@
+---
+layout: page
+title: nashp.com
+subtitle: 
+pagination:
+  enabled: true
+---
+
+{% for post in paginator.posts %}
+	{% include post-entry.html %}
+{% endfor %}
+
+{% include paginator.html %}
