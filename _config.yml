@@ -4,8 +4,8 @@ locale                   : "en"
 title                    : "NASH"
 title_separator          : "-"
 description              : "I'm Nash. I create things"
-favicon                  : "/assets/images/bird.png"
-avatar                   : "/assets/images/bird.png"
+favicon                  : "/assets/images/logo.jpg"
+avatar                   : "/assets/images/logo.jpg"
 url                      : "https://nashpitre.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
@@ -20,7 +20,7 @@ disqus:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-og_image                 : "/assets/images/bird.png" # Open Graph/Twitter default site image, optional for seo and social sharing
+og_image                 : "/assets/images/logo.jpg" # Open Graph/Twitter default site image, optional for seo and social sharing
 
 # Social sharing
 twitter:
