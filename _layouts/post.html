@@ -2,10 +2,10 @@
 layout: default
 ---
 
-{% include breadcrumbs.html %}
+{% include topnav.html %}
 
 <div id="main" role="main">
-  {% include topnav.html %}
+  
   <article class="post" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
