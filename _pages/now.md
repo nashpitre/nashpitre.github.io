@@ -1,0 +1,5 @@
+---
+title: Now
+---
+
+This is my now page. Currently writing what I'm doing now; which is creating a now page. :-p
