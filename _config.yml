@@ -30,6 +30,11 @@ sass:
 
 # Options
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:title/
+
 # Replace this value and uncomment to enable Google Analytics tracking
 # ga_analytics: UA-000000-0
 
