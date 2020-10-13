@@ -1,94 +1,41 @@
-# Site Settings
-encoding                 : "utf-8"
-locale                   : "en"
-title                    : "nashp.com"
-title_separator          : "-"
-description              : "I'm Nash. I create things"
-favicon                  : "/assets/images/logo.jpg"
-avatar                   : "/assets/images/logo.jpg"
-url                      : "https://nashpitre.github.io" # the base hostname & protocol for your site
-baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+# Setup
+title: Poole
+tagline: The Jekyll Butler
+url: https://getpoole.com
+paginate: 1
+baseurl: ""
+permalink: pretty
 
-# Site Author
-author:
-  name                   : "Nash Pitre" # appears in the footer and atom feed
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-comments                 : false # set it to false to disable comments
-disqus:
-  shortname              : # sparrow-theme # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-
-og_image                 : "/assets/images/logo.jpg" # Open Graph/Twitter default site image, optional for seo and social sharing
-
-# Social sharing
-twitter:
-  username               : nashp # optional, for social sharing
-
-# Analytics
-analytics:
-  google:
-    tracking_id          : # add your google tracking id here
-
-# Reading Files
-include:
-- _pages
-
-# Files excluded from Jekyll builds
+# Optimize Jekyll
 exclude:
-- README.md
-- LICENSE
-- Gemfile
-- Gemfile.lock
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
 
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: :compressed
 
+# Options
 
-# Outputting
-permalink: /:title/
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
 
-pagination:
-  enabled: true
-  per_page: 1
-  permalink: "/page:num/"
-  collection: "posts"
-  trail: 
-    before: 2 # The number of links before the current page
-    after: 2  # The number of links after the current page
+# Specify the author for blog posts
+author:
+  name: Mark Otto
+  url: https://twitter.com/mdo
+  email: markdotto@gmail.com
 
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-# Plugins
-gems:
-  - jekyll-paginate-v2
-  - jekyll-feed
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-feed
+# Custom vars
+version: 3.0.0
