@@ -2,7 +2,6 @@
   <div class="topnav__content">
     <nav>
       <ul id="navigation" class="links slimmenu">
-        <li class="site__name">{{ site.title }}</li>
         {% for link in site.data.navigation.main %}
           {% if link.url contains 'http' %}
             {% assign domain = '' %}

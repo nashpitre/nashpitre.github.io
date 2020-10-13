@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "Projects"
+  - title: "NASH"
+    url: /
+  - title: "projects"
     url: /projects
     children: 
       - title: "item 1"
