@@ -1,18 +1,25 @@
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=0">
 
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}{% if site.tagline %} - {{ site.tagline }}{% endif %}
-    {% else %}
-      {{ page.title }} - {{ site.title }}
-    {% endif %}
-  </title>
+  <title>{{ site.title }}</title>
 
   <link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/assets/logo.jpg' | relative_url }}">
+  <link rel="icon" sizes="144x144" href="{{ '/assets/logo.jpg' | relative_url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ 'atom.xml' | relative_url }}">
+
+  <!-- OG Data -->
+  <meta property="og:image" content="/_assets/undrawdotco-18.png">
+  <meta property="og:description" content="Observations and Obsessions.">
+  <meta property="og:type" content="blog">
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="{{ site.title }}">
+  <meta name="twitter:title" content="{{ site.title }}">
+  <meta name="twitter:description" content="Observations and Obsessions.">
+  <meta name="twitter:creator" content="@nashp">
+  <meta name="twitter:image" content="/assets/logo.jpg">
 
   {% seo title=false %}
 </head>
