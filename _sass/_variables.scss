@@ -11,7 +11,7 @@ $gochi-hand                 : Gochi Hand, "Hiragino Sans GB", "WenQuanYi Micro H
 
 $global-font-family         : $heebo !default;
 $header-font-family         : $heebo !default;
-$fancy-font-family          : $gochi-hand !default;
+$fancy-font-family          : $heebo !default;
 $caption-font-family        : $heebo !default;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace !default;
 
@@ -30,8 +30,8 @@ $type-size-8                : 0.625em !default;  // ~10px
    Colors
    ========================================================================== */
 
-$green                      : mix(#000, #50dd8e, 15%);
-$theme-color                : $green;
+$blue                      	: #479db1;
+$theme-color                : $blue;
 $gray                       : #7a8288 !default;
 
 $body-color                 : #fff !default;

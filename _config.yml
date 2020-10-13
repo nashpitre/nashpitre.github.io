@@ -1,7 +1,7 @@
 # Site Settings
 encoding                 : "utf-8"
 locale                   : "en"
-title                    : "NASH"
+title                    : "nashp.com"
 title_separator          : "-"
 description              : "I'm Nash. I create things"
 favicon                  : "/assets/images/logo.jpg"
