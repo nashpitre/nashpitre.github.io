@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "NASH"
+  - title: "<span class="site__name">NASH</span>"
     url: /
-  - title: "projects"
+  - title: "Projects"
     url: /projects
     children: 
       - title: "item 1"

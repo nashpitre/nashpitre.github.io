@@ -186,7 +186,7 @@
 
   @include breakpoint(max-width $small) {
     @include full();
-    h3, p, ul, li { text-align: center; }
+    h3, p, ul, li { text-align: left; }
     ul.collapsed li { text-align: left; }
   }
   @include breakpoint($large) {
@@ -198,6 +198,8 @@
   margin: 0;
   font-family: $fancy-font-family;
   font-size: $type-size-2;
+  font-weight: bold;
+  color: #000000;
 }
 
 .site__bio {
