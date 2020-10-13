@@ -1,5 +1,6 @@
 # Setup
-title: nashp.com
+label: nashp.com
+title: nash
 url: https://nashpitre.github.io
 paginate: 1
 baseurl: ""
