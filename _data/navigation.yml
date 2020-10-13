@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "<span class='site__name'>NASH</span>"
+  - title: "<span class='nav_name'>NASH</span>"
     url: /
   - title: "Projects"
     url: /projects
