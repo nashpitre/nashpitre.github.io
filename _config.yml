@@ -12,6 +12,9 @@ plugins:
   - jekyll-seo-tag
 
 # Optimize Jekyll
+include:
+- _pages
+
 exclude:
   - .editorconfig
   - .git
