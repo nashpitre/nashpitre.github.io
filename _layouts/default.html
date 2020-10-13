@@ -28,14 +28,16 @@
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-    {{ content }}
+{% include topnav.html %}
 
+    {{ content }}
+<!--
     <div class="page__footer">
       <footer>
         <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</div>
       </footer>
     </div>
-    
+    -->
     <script src="{{ '/assets/js/plugins/jquery-1.12.4.min.js' | absolute_url }}"></script>
     <script src="{{ '/assets/js/plugins/rrssb.min.js' | absolute_url }}"></script>
     <script src="{{ '/assets/js/slimmenu.js' | absolute_url }}"></script>
