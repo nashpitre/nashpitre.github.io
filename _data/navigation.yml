@@ -1,13 +1,7 @@
 # main links
 main:
-  - title: "home"
-    url: /
-  - title: "blog"
-    url: /blog
-  - title: "poetry"
-    url: /poetry
-  - title: "submenu"
-    url: /
+  - title: "Projects"
+    url: /projects
     children: 
       - title: "item 1"
         url: /404
