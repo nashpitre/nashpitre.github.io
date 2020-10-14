@@ -19,14 +19,14 @@ It's simple: if you write your email address here, my words will reach you again
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
     	#mc_embed_signup {
-			font: 17px 'Electrolize',sans-serif;
+			font: 17px 'Verdana',sans-serif;
 			width: 100%;
 		}
 		/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 		   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 		#mc_embed_signup input.button {
 			margin: auto;
-			font: 17px 'Electrolize',sans-serif;
+			font: 17px 'Verdana',sans-serif;
 		}
 		#mc_embed_signup .mc-field-group label {
 			display: inline-block;
@@ -68,10 +68,8 @@ This is my **Choose what you pay** box. It allows you to subscribe monthly, help
 
 <form class="contribute" action="https://nashp.memberful.com/checkout" method="get">
   <input type="hidden" name="plan" value="53002" />
-  <div class="mc-field-group">
-  	<input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01" />
-  </div>
-  <input type="submit" class="button" value="Contribute now" />
+  <input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01" />
+  <input type="submit" class="btn" value="Contribute now" />
 </form>
 
 ### More details
