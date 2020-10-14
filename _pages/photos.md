@@ -5,10 +5,10 @@ permalink: photos
 ---
 
 {% assign postsByYear = site.categories.photos | group_by_exp: "post", "post.date | date: '%Y'" %}
-{% for year in postsByYearMonth %}
-<h2>{{ year.name }}</h2>
+{% for yearS in postsByYear %}
+<h2>{{ yearS.name }}</h2>
   <div class="grid">
-    {% for post in yearMonth.items %}
+    {% for post in yearS.items %}
       <div>
       {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
