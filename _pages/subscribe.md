@@ -63,7 +63,7 @@ It's simple: if you write your email address here, my words will reach you again
   <input type="hidden" name="plan" value="53002" />
   <input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01" />
   <input type="submit" value="Contribute now" />
-</form>
+</form><br>
 
 This is my 'choose what you pay' box. It lets you subscribe monthly to helping the site raise money and remain successful (This also comes with cool perks like a free copy of my first book, Alchemy One).
 
