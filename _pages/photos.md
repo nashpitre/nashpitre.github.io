@@ -14,11 +14,12 @@ permalink: photos
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
         {% if image contains 'src' %}
-
             {% if foundImage == 0 %}
                 {% assign html = image | split:"/>" | first %}
                 <img {{ html }} />
                 {% assign foundImage = 1 %}
+                {% else %}
+                	<h3>{{ post.placeholder }}</h3>
             {% endif %}
         {% endif %}
       {% endfor %}
