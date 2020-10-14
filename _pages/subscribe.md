@@ -4,6 +4,11 @@ title: Subscribe
 permalink: subscribe
 ---
 
+Two ways to subscribe: 
+
+- Newsletter
+- Membership
+
 ----
 
 ## Newsletter
@@ -59,15 +64,15 @@ It's simple: if you write your email address here, my words will reach you again
 
 ## Membership
 
+This is my **Choose what you pay** box. It allows you to subscribe monthly, helping the site raise money and remain succesful. This is a huge upgrade to the previous way memberships were handled: it’s no longer a set price that you have to follow. Now, if you’d like to contribute $20 a month...or just $1, that choice is completely yours. Whatever fits your budget and the amount you think I deserve. I continue to focus on making this site my full-time job, and this new feature is aligned with that goal in mind. I always say not to become a member or support this site unless you feel like I’m bringing in enough value for you to do so. I want to earn your support.
+
 <form class="contribute" action="https://nashp.memberful.com/checkout" method="get">
   <input type="hidden" name="plan" value="53002" />
   <input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01" />
   <input type="submit" value="Contribute now" />
 </form>
 
-This is my 'choose what you pay' box. It lets you subscribe monthly to helping the site raise money and remain successful (This also comes with cool perks like a free copy of my first book, Alchemy One).
-
-This is a huge upgrade to the previous way memberships were handled: it’s no longer a set price that you have to follow. Now, if you’d like to contribute $20 a month...or just $1, that choice is completely yours. Whatever fits your budget and the amount you think I deserve. I continue to focus on making this site my full-time job, and this new feature is aligned with that goal in mind. I always say not to become a member or support this site unless you feel like I’m bringing in enough value for you to do so. **I want to earn your support.**
+### More details
 
 You can look at the [events](create) I hosted that held over 50 people on a given night (look at all those kids that showed up to the “Teach Me How To Doodle” event), or the [discography](music) that spans back almost 20 years (since 2003, with over 25 albums), or all the [guest](guest) posts from other people sharing their personal stories (26 and counting so far), or the vlogs ([Grand Canyon Road Trip](canyon)), essays ([Us](us)), books ([For My Brother](a1)), shirts ([Be The Light](light)), [music videos](https://nashp.com/music#videos), and *all* the other random things my brain comes up with throughout the year. All of these things together tell a singular story. It’s simple: **I create things**.
 
