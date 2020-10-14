@@ -2,3 +2,6 @@
 main:
   - title: "projects"
     url: /projects
+foot:
+  - title: "subscribe"
+    url: /subscribe

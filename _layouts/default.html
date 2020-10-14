@@ -20,9 +20,9 @@
       </main>
 
       <footer class="footer">
-        
-          <a href="/subscribe">subscribe</a>
-        
+          {% for link in site.data.navigation.foot %}
+          <small><a href="{{ link.url }}">{{ link.title }}</a> / </small>
+          {% endfor %}
       </footer>
     </div>
 

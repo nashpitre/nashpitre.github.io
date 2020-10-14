@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: home
 title: Now
-permalink: now
+permalink: /index.html
 ---
+
+This is my now page. Which is also the homepage? Maybe.
