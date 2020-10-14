@@ -4,10 +4,7 @@ title: Subscribe
 permalink: subscribe
 ---
 
-Here's two ways to subcribe:
-
-- Newsletter
-- Membership
+Here's two ways to subscribe: Newsletter and Membership.
 
 ----
 
