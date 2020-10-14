@@ -4,19 +4,12 @@ title: Photos
 permalink: photos
 ---
 
-{% assign postsByYearMonth = site.categories.photos | group_by_exp: "post", "post.date | date: '%B %Y'" %}
-{% for yearMonth in postsByYearMonth %}
+{% assign postsByYear = site.categories.photos | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year in postsByYearMonth %}
+<h2>{{ year.name }}</h2>
   <div class="grid">
     {% for post in yearMonth.items %}
-      <div><a href="{{ post.url }}">{{ post.title }}</a></div>
-    {% endfor %}
-  </div>
-{% endfor %}
-
-
-<ul>
-  {% for post in site.categories.photos %}
-    <li>
+      <div>
       {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -29,8 +22,8 @@ permalink: photos
             {% endif %}
         {% endif %}
       {% endfor %}
-
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
