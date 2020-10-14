@@ -4,14 +4,12 @@ title: Photos
 permalink: photos
 ---
 
-<div class="posts">
-  {% for post in site.categories.photos %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-  </article>
-  {% endfor %}
-</div>
+
+{% assign postsByYearMonth = site.categories.photos | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+{% for yearMonth in postsByYearMonth %}
+  <ul>
+    {% for post in yearMonth.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
