@@ -68,8 +68,10 @@ This is my **Choose what you pay** box. It allows you to subscribe monthly, help
 
 <form class="contribute" action="https://nashp.memberful.com/checkout" method="get">
   <input type="hidden" name="plan" value="53002" />
-  <input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01" />
-  <input type="submit" value="Contribute now" />
+  <div class="mc-field-group">
+  	<input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01" />
+  </div>
+  <input type="submit" class="button" value="Contribute now" />
 </form>
 
 ### More details
