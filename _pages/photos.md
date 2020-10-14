@@ -10,6 +10,7 @@ permalink: photos
   <div class="grid">
     {% for post in yearS.items %}
       <div>
+      <a href="{{ post.url }}">
       {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -18,12 +19,10 @@ permalink: photos
                 {% assign html = image | split:"/>" | first %}
                 <img {{ html }} />
                 {% assign foundImage = 1 %}
-                {% else %}
-                	<h3>{{ post.placeholder }}</h3>
             {% endif %}
         {% endif %}
       {% endfor %}
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.title }}</a>
       </div>
     {% endfor %}
   </div>
