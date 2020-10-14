@@ -1,9 +1,8 @@
 ---
 layout: page
+title: music
 permalink: music
 ---
-
-# Music
 
 ![](https://i.imgur.com/XxufeAA.jpg)
 
