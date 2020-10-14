@@ -1,4 +1,4 @@
 ---
 layout: post
-title: May Photos
+title: May
 ---

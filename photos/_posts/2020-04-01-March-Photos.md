@@ -1,6 +1,6 @@
 ---
 layout: post
-title: March Photos
+title: March
 ---
 
 ![](https://i.imgur.com/cuSh2yF.jpg)
