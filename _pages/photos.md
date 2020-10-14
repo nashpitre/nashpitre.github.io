@@ -4,12 +4,33 @@ title: Photos
 permalink: photos
 ---
 
-
 {% assign postsByYearMonth = site.categories.photos | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
-  <ul>
+  <div class="grid">
     {% for post in yearMonth.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% endfor %}
-  </ul>
+  </div>
 {% endfor %}
+
+
+<ul>
+  {% for post in site.categories.photos %}
+    <li>
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
