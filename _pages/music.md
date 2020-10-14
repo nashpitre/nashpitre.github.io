@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Music
 permalink: music
 ---
 
@@ -19,6 +18,8 @@ permalink: music
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=639898814/size=small/bgcol=ffffff/linkcol=000000/artwork=none/transparent=true/" seamless><a href="http://nashp.bandcamp.com/album/the-mask">The Mask by nashp</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=234707312/size=small/bgcol=ffffff/linkcol=000000/artwork=none/transparent=true/" seamless><a href="http://nashp.bandcamp.com/album/plasticsky">PlasticSky by nashp</a></iframe>
+
+----
 
 # Albums
 
