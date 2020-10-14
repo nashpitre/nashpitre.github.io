@@ -26,6 +26,8 @@ permalink: music
 
 <iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=3198187528/size=large/bgcol=ffffff/linkcol=333333/artwork=none/transparent=true/" seamless><a href="http://nashp.bandcamp.com/album/chasing-my-ghost-loop4">Chasing My Ghost (LOOP4) by nashp</a></iframe>
 
+----
+
 ![](https://i.imgur.com/CS9Mn9Y.jpg)
 
 <iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1240662929/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=none/transparent=true/" seamless><a href="http://nashp.bandcamp.com/album/the-illusion-of-progress-3">The Illusion of Progress by nashp</a></iframe>
