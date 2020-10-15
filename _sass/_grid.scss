@@ -30,15 +30,14 @@
 .grid a {
   text-align: center;
   text-decoration: none;
-  color: #479db1;
+  color: white;
 }
 .grid a:hover {
-  
+  color: #479db1;
 }
 .grid img {
   max-width: 100%;
   height: 200px;
-  opacity: 0.75
 }
 .gridBox {
   position: relative;
@@ -50,4 +49,7 @@
   right: 0;
   left: 0;
   font-weight: 600;
+  background-color: black;
+  opacity: 0.5;
+  width: 100%;
 }
