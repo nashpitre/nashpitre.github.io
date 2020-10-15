@@ -22,7 +22,6 @@ permalink: photos
             	{% endif %}
         	{% endif %}
       	{% endfor %}
-      	</div>
       	<span class="boxText">{{ post.title }}</span></a>
       	</div>
     {% endfor %}
