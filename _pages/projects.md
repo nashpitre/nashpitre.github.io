@@ -4,5 +4,10 @@ title: Projects
 permalink: projects
 ---
 
-- [Music](music)
-- [Photos](photos)
+[music][1] / [photos][2] / [shop][3]
+
+
+
+[1]:	music
+[2]:	photos
+[3]:	shop
