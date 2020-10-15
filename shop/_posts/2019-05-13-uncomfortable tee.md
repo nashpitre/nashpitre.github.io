@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uncomfortable" Tee
+title: '"Uncomfortable" Tee'
 ---
 
 ![][image-1]
