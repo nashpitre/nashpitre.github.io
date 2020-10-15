@@ -8,7 +8,7 @@ permalink: photos
 {% for yearS in postsByYear %}
 <h2>{{ yearS.name }}</h2>
   <div class="grid">
-    {% for post in yearS.items %}
+    {% for post in yearS.items reversed %}
       <div class="gridBox">
       	<a href="{{ post.url }}">
       	{% assign foundImage = 0 %}
@@ -24,6 +24,7 @@ permalink: photos
       	{% endfor %}
       	</div>
       	<span class="boxText">{{ post.title }}</span></a>
+      	</div>
     {% endfor %}
   </div>
 {% endfor %}
