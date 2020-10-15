@@ -4,6 +4,7 @@ title: Shop
 permalink: shop
 ---
 
+![](https://i.imgur.com/IrvaRvJ.png)
 
 <div class="grid">
 {% for post in site.categories.shop %}
