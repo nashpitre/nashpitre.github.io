@@ -9,21 +9,21 @@ permalink: photos
 <h2>{{ yearS.name }}</h2>
   <div class="grid">
     {% for post in yearS.items %}
-      <a href="{{ post.url }}">
-      <div>
-      {% assign foundImage = 0 %}
-      {% assign images = post.content | split:"<img " %}
-      {% for image in images %}
-        {% if image contains 'src' %}
-            {% if foundImage == 0 %}
-                {% assign html = image | split:"/>" | first %}
-                <img {{ html }} />
-                {% assign foundImage = 1 %}
-            {% endif %}
-        {% endif %}
-      {% endfor %}
-      </div>
-      {{ post.title }}</a>
+      <div class="gridBox">
+      	<a href="{{ post.url }}">
+      	{% assign foundImage = 0 %}
+      	{% assign images = post.content | split:"<img " %}
+      	{% for image in images %}
+        	{% if image contains 'src' %}
+            	{% if foundImage == 0 %}
+                	{% assign html = image | split:"/>" | first %}
+                	<img {{ html }} />
+                	{% assign foundImage = 1 %}
+            	{% endif %}
+        	{% endif %}
+      	{% endfor %}
+      	</div>
+      	<span class="boxText">{{ post.title }}</span></a>
     {% endfor %}
   </div>
 {% endfor %}
