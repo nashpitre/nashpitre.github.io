@@ -1,8 +1,8 @@
-
-Permalink: light
-Date: 05/01/19 4:55 pm
-
-# Be The Light
+---
+layout: post
+title: Be The Light
+permalink: light
+---
 
 ![][image-1]
 ![][image-2]

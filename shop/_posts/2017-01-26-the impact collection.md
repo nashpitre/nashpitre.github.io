@@ -1,9 +1,9 @@
-
-Permalink: the-impact-collecti
-Date: 01/26/17
-Thumbnail: /public/Images/4B5FC925-14BE-49FE-860E-7E3D75AFC006.JPG
-
-# The Impact Collection
+---
+layout: post
+title: The Impact Collection
+permalink: the-impact-collecti
+thumbnail: /public/Images/4B5FC925-14BE-49FE-860E-7E3D75AFC006.JPG
+---
 
 *I'm starting something new on my site. I'll be calling it Collections. Each Collection will consist of four shirts, all with different designs that tell a specific story.*
 

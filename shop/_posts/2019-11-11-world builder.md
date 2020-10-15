@@ -1,8 +1,7 @@
-
-Date: 11/11/2019
-Page: yes
-
-# World Builder Shirt
+---
+layout: post
+title: World Builder Shirt
+---
 
 ![][image-1]
 

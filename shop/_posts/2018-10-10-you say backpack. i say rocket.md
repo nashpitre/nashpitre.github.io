@@ -1,7 +1,7 @@
-Date: 10/10/18
-Page: yes
-
-# You say backpack. I say rocket.
+---
+layout: post
+title: You say backpack. I say rocket.
+---
 
 ![][image-1]
 

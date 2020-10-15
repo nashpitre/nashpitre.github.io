@@ -1,8 +1,7 @@
-
-Date: 11/11/2019
-Page: yes
-
-# Do Something Great Shirt
+---
+layout: post
+title: Do Something Great Shirt
+---
 
 ![][image-1]
 

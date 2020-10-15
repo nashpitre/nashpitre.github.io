@@ -1,8 +1,8 @@
-
-Date: 1/18/19
-Permalink: cartoon
-
-# Cartoon Nash
+---
+layout: post
+title: Cartoon Nash
+permalink: cartoon
+---
 
 ![][image-1]
 ![][image-2]

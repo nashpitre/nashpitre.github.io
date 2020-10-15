@@ -1,4 +1,7 @@
-# Be The Light: Kids
+---
+layout: post
+title: "Be The Light: Kids"
+---
 
 ![][image-1]
 

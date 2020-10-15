@@ -1,7 +1,7 @@
-
-Date: 11/11/2019 7:00 am
-
-# Creative Minds Shirt
+---
+layout: post
+title: Creative Minds Shirt
+---
 
 ![][image-1]
 

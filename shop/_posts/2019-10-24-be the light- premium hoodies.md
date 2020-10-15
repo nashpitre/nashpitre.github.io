@@ -1,6 +1,7 @@
-Date: 10/24/19
-
-# Be The Light: Premium Hoodies
+---
+layout: post
+title: "Be The Light: Premium Hoodies"
+---
 
 https://i.imgur.com/yHRf61a.jpg
 https://i.imgur.com/kci3azP.png

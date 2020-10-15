@@ -1,6 +1,7 @@
-Date: 6/16/19
-
-# Cartoon Gym Bag
+---
+layout: post
+title: Cartoon Gym Bag
+---
 
 ![][image-1]
 
