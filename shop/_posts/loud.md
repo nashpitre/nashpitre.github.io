@@ -1,0 +1,33 @@
+Date: 05/30/2020
+Permalink: loud
+
+# Loud: Without Ever Saying A Word
+
+![][image-1]
+
+## Merchandise
+
+- [Basic ($21.99)][1]
+- [Premium ($25.99)][2]
+- [Mug ($14.99)][3]
+- [Stickers ($6)][4]
+
+---- 
+
+## May 30, 2020
+
+All this noise around you. All the hashtags. All the memes. All the fighting for awareness. Echo chambers, repeating over and over with no solution. It’s billboards for recognition to show that you’re also part of the circus. Make your impact look different from theirs. Loud: without ever saying a word.
+
+
+---- 
+
+## September 30, 2017
+
+All this noise and nothing to show for it. It’s easy to use your voice without ever executing anything. Being loud isn’t the same as being successful. Instead, be someone who’s known for their efforts and results. Don’t talk about helping someone, just help them. Don’t tell us what you’ll accomplish, just do it. Let the results speak louder than your voice ever could.
+
+[1]:	https://teespring.com/shop/loud-nash
+[2]:	https://teespring.com/shop/loud-nash
+[3]:	https://teespring.com/shop/loud-nash
+[4]:	https://teespring.com/shop/loud-nash
+
+[image-1]:	https://i.imgur.com/8NN3GTg.jpg
