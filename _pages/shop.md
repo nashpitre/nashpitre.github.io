@@ -21,6 +21,7 @@ permalink: shop
 			{% endif %}
 		{% endif %}
 	{% endfor %}
-	</div>
+	</a>
+  </div>
 {% endfor %}
 </div>
