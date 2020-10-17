@@ -21,7 +21,7 @@ permalink: shop
 			{% endif %}
 		{% endif %}
 	{% endfor %}
-	<span class="boxText">{{ post.title }}</span></a>
-	</div>
+	</a>
+  </div>
 {% endfor %}
 </div>
