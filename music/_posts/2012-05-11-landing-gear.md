@@ -1,9 +1,8 @@
-Permalink: landinggear
-Date: 05/11/12
-Page: yes
-Tags: albums
-
-# Landing Gear
+---
+title: Landing Gear
+permalink: landinggear
+tags: albums
+---
 
 <center>![](https://dl.dropboxusercontent.com/s/r34s4n8h4i1yz7p/00.Landing%20Gear.jpg)</center>
 

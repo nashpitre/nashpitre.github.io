@@ -1,10 +1,8 @@
-
-Date: 07/4/2009
-Permalink: escape
-Page: yes
-Tags: albums
-
-# The Great Escape
+---
+title: The Great Escape
+permalink: escape
+tags: albums
+---
 
 ![][image-1]
 

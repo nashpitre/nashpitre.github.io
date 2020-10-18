@@ -1,10 +1,8 @@
-
-Date: 2/6/20
-Permalink: progress
-Tags: albums
-Title: The Illusion of Progress
-
-# The Illusion of Progress
+---
+title: The Illusion of Progress
+permalink: progress
+tags: albums
+---
 
 ![][image-1]
 

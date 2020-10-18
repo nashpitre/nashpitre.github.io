@@ -1,10 +1,8 @@
-
-Permalink: ghost
-Page: yes
-Tags: albums
-Title: Chasing My Ghost
-
-# Chasing My Ghost (LOOP4)
+---
+title: Chasing My Ghost (LOOP4)
+permalink: ghost
+tags: albums
+---
 
 ![][image-1]
 

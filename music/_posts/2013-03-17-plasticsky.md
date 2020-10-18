@@ -1,8 +1,8 @@
-Date: 03/17/13
+---
+title: PlasticSky
 permalink: plasticsky
-Tags: albums
-
-# PlasticSky
+tags: albums
+---
 
 ![][image-1]
 

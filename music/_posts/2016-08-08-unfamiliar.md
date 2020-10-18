@@ -1,8 +1,8 @@
-Permalink: unfamiliar
-Date: 08/08/2016
-Tags: albums
-
-# The Land of Unfamiliar
+---
+permalink: unfamiliar
+tags: albums
+title: The Land of Unfamiliar
+---
 
 ![][image-1]
 

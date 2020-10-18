@@ -1,9 +1,8 @@
-
-Date: 10/6/20 4 pm
-Permalink: satellite
-Tags: albums
-
-# When The Satellite Fell
+---
+title: When The Satellite Fell
+permalink: satellite
+tags: albums
+---
 
 ![][image-1]
 
