@@ -4,7 +4,14 @@ title: Projects
 permalink: projects
 ---
 
-[music][1] / [photos][2] / [shop][3] / [subscribe][4]
+![][image-1]
+
+Table of contents:
+
+- [Music][1]
+- [Photos][2]
+- [Shop][3]
+- [Subscribe][4]
 
 ## [Music][5]
 
@@ -33,3 +40,5 @@ Choose what you pay. Whatever amount you choose will help fund the website and a
 [9]:	photos
 [10]:	subscribe
 [11]:	subscribe
+
+[image-1]:	https://i.imgur.com/WdJmpta.png
