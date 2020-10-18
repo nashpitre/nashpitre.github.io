@@ -12,11 +12,15 @@ permalink: projects
 
 ---- 
 
-**Morning Coffee**—A weekly newsletter. It's simple: if you write your email address [here][7], my words will reach you again.
+**Photos**—There’s a [photoblog][7] for each month. Pictures taken with an iPhone, telling my story throughout the year.
 
 ---- 
 
-**Membership**—[Choose][8] what you pay. Whatever amount you choose will help fund the website and all the things I create.
+**Morning Coffee**—A weekly newsletter. It's simple: if you write your email address [here][8], my words will reach you again.
+
+---- 
+
+**Membership**—[Choose][9] what you pay. Whatever amount you choose will help fund the website and all the things I create.
 
 [1]:	music
 [2]:	photos
@@ -24,5 +28,6 @@ permalink: projects
 [4]:	satellite
 [5]:	ghost
 [6]:	progress
-[7]:	subscribe
+[7]:	photos
 [8]:	subscribe
+[9]:	subscribe
