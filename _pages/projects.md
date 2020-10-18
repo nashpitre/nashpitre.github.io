@@ -12,15 +12,15 @@ This has been a very quiet year for me. Even though I released three new albums�
 
 ## [Photos][9]
 
-There’s a [photoblog][10] for each month. Pictures taken with an iPhone, telling my story throughout the year.
+There’s a photoblog for each month. Pictures taken with an iPhone, telling my story throughout the year.
 
-## Morning Coffee
+## [Morning Coffee][10]
 
-A weekly newsletter. It's simple: if you write your email address [here][11], my words will reach you again.
+A weekly newsletter. It's simple: if you write your email address here, my words will reach you again.
 
-## Membership
+## [Membership][11]
 
-[Choose][12] what you pay. Whatever amount you choose will help fund the website and all the things I create.
+Choose what you pay. Whatever amount you choose will help fund the website and all the things I create.
 
 [1]:	music
 [2]:	photos
@@ -31,6 +31,5 @@ A weekly newsletter. It's simple: if you write your email address [here][11], my
 [7]:	ghost
 [8]:	progress
 [9]:	photos
-[10]:	photos
+[10]:	subscribe
 [11]:	subscribe
-[12]:	subscribe
