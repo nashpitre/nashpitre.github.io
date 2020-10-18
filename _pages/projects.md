@@ -13,6 +13,8 @@ Table of contents:
 - [Shop][3]
 - [Subscribe][4]
 
+---- 
+
 ## [Music][5]
 
 This has been a very quiet year for me. Even though I released three new albums—[When The Satellite Fell][6], [Chasing My Ghost][7], and [The Illusion of Progress][8] (the most I’ve ever done in a single year)—there has been hardly any discussions or promotion for them. Most of this music was made prior to 2020. *Ghost* and *Progress* were recorded last year, then released in February and June. *Satellite* was recorded this year in March, and then released in September.
