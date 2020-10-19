@@ -1,8 +1,9 @@
-Date: 10/15/19
+---
+layout: post
+title: Strangers (a beautiful mess)
+---
 
-# Strangers (a beautiful mess)
-
-https://youtu.be/8iPkUIURMsY
+<iframe src="https://youtu.be/8iPkUIURMsY"></iframe>
 
 ---- 
 
