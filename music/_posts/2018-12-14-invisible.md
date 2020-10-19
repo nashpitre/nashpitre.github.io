@@ -1,7 +1,7 @@
 ---
-Permalink: invisible
-Tags: albums
-Title: Invisible Man
+permalink: invisible
+tags: albums
+title: Invisible Man
 ---
 
 ![][image-1]
