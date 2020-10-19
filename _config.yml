@@ -2,7 +2,7 @@
 label: nashp.com
 title: nash
 url: https://nashpitre.github.io
-paginate: 1
+paginate: 10
 baseurl: ""
 permalink: pretty
 
