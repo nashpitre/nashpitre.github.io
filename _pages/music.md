@@ -41,7 +41,7 @@ permalink: music
 
 <div class="grid">
 {% for post in site.categories.music %}
-  {% if post.tags contains albums %}
+  {% if post.tags == albums %}
   <div class="gridBox">
 	<a href="{{ post.url }}">
 	{% assign foundImage = 0 %}
