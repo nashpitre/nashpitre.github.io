@@ -1,0 +1,266 @@
+
+Permalink: april19
+Date: 04/29/19 4:14 pm
+
+# April Photos
+
+![][image-1]
+
+#### These are my moments from April. It's been another eventful month.
+
+What an amazing month it’s been. I didn't expect April to have a better photoblog than [March][1], but it's not even close! Last month I had 60 photos. This month has 100. For context, I usually only have about 20 per month. To say that February was an incredibly [dark][2] month for me, March and April showed me how seasons can change faster than I think. Time is a beautiful thing.
+
+---- 
+
+- [Biloxi][3]
+- [Texas][4]
+- [Easter][5]
+- [Leadership Conference][6]
+- [Franklinton][7]
+- [Party][8]
+
+---- 
+
+![][image-2]
+![][image-3]
+![][image-4]
+![][image-5]
+![][image-6]
+![][image-7]
+![][image-8]
+![][image-9]
+![][image-10]
+![][image-11]
+![][image-12]
+
+---- 
+
+# Biloxi
+
+![][image-13]
+![][image-14]
+![][image-15]
+![][image-16]
+![][image-17]
+![][image-18]
+![][image-19]
+![][image-20]
+
+---- 
+
+![][image-21]
+![][image-22]
+![][image-23]
+![][image-24]
+![][image-25]
+![][image-26]
+![][image-27]
+
+---- 
+
+# Texas
+
+![][image-28]
+![][image-29]
+![][image-30]
+![][image-31]
+![][image-32]
+![][image-33]
+![][image-34]
+![][image-35]
+![][image-36]
+![][image-37]
+![][image-38]
+![][image-39]
+![][image-40]
+![][image-41]
+![][image-42]
+![][image-43]
+![][image-44]
+![][image-45]
+![][image-46]
+![][image-47]
+
+---- 
+
+# Easter
+
+![][image-48]
+![][image-49]
+![][image-50]
+![][image-51]
+![][image-52]
+![][image-53]
+![][image-54]
+![][image-55]
+
+---- 
+![][image-56]
+![][image-57]
+
+### If you start seeing pictures that look way better than my usual ones, it's because of this Canon T3 camera I now have.
+
+---- 
+
+# Leadership Conference
+
+![][image-58]
+![][image-59]
+![][image-60]
+![][image-61]
+![][image-62]
+![][image-63]
+![][image-64]
+![][image-65]
+![][image-66]
+![][image-67]
+![][image-68]
+![][image-69]
+![][image-70]
+![][image-71]
+![][image-72]
+![][image-73]
+![][image-74]
+![][image-75]
+![][image-76] 
+
+---- 
+
+![][image-77]
+![][image-78]
+
+---- 
+
+# Franklinton
+
+
+![][image-79]
+![][image-80]
+![][image-81]
+![][image-82]
+![][image-83]
+![][image-84]
+![][image-85]
+
+---- 
+
+# Party
+
+![][image-86]
+![][image-87]
+![][image-88]
+![][image-89]
+![][image-90]
+
+---- 
+
+![][image-91]
+![][image-92]
+![][image-93]
+![][image-94]
+![][image-95]
+
+[1]:	/march-photos
+[2]:	/fine
+[3]:	#biloxi
+[4]:	#texas
+[5]:	#easter
+[6]:	#leadership-conference
+[7]:	#franklinton
+[8]:	#party
+
+[image-1]:	https://i.imgur.com/Kfu3grD.jpg
+[image-2]:	https://i.imgur.com/X7TRDGG.jpg
+[image-3]:	https://i.imgur.com/Rq5SRED.jpg
+[image-4]:	https://i.imgur.com/jh8Y8ij.jpg
+[image-5]:	https://i.imgur.com/7SnqNeq.jpg
+[image-6]:	https://i.imgur.com/1BhvRUp.jpg
+[image-7]:	https://i.imgur.com/qCbTrZI.jpg
+[image-8]:	https://i.imgur.com/HE6B6Ez.jpg
+[image-9]:	https://i.imgur.com/3nzlWmS.jpg
+[image-10]:	https://i.imgur.com/VklpShA.jpg
+[image-11]:	https://i.imgur.com/5rcNnT1.jpg
+[image-12]:	https://i.imgur.com/fRVQSpY.jpg
+[image-13]:	https://i.imgur.com/h3eElnR.jpg
+[image-14]:	https://i.imgur.com/UlsDLi1.jpg
+[image-15]:	https://i.imgur.com/Mz9jXyB.jpg
+[image-16]:	https://i.imgur.com/YxZu47X.jpg
+[image-17]:	https://i.imgur.com/q6e8B5f.jpg
+[image-18]:	https://i.imgur.com/s1Uubbn.jpg
+[image-19]:	https://i.imgur.com/i5lBrad.jpg
+[image-20]:	https://i.imgur.com/tb01iC3.jpg
+[image-21]:	https://i.imgur.com/bAxwTa8.jpg
+[image-22]:	https://i.imgur.com/Cuc7WfQ.jpg
+[image-23]:	https://i.imgur.com/klSJbf1.jpg
+[image-24]:	https://i.imgur.com/UkWBhX5.jpg
+[image-25]:	https://i.imgur.com/thOu8om.jpg
+[image-26]:	https://i.imgur.com/BXDsdRL.jpg
+[image-27]:	https://i.imgur.com/tsfGTti.jpg
+[image-28]:	https://i.imgur.com/dS4kUbn.jpg
+[image-29]:	https://i.imgur.com/C7WFN8u.jpg
+[image-30]:	https://i.imgur.com/c9hflBp.jpg
+[image-31]:	https://i.imgur.com/85GpJX6.jpg
+[image-32]:	https://i.imgur.com/jTS7Q9B.jpg
+[image-33]:	https://i.imgur.com/SKONANx.jpg
+[image-34]:	https://i.imgur.com/QhTpq6P.jpg
+[image-35]:	https://i.imgur.com/R9ZTkl4.jpg
+[image-36]:	https://i.imgur.com/E7jy6eg.jpg
+[image-37]:	https://i.imgur.com/HevCukC.jpg
+[image-38]:	https://i.imgur.com/xzahR8E.jpg
+[image-39]:	https://i.imgur.com/L0OCZFv.jpg
+[image-40]:	https://i.imgur.com/HHdNNzR.jpg
+[image-41]:	https://i.imgur.com/GeJu6fL.jpg
+[image-42]:	https://i.imgur.com/ON0PbJp.jpg
+[image-43]:	https://i.imgur.com/fA9gBCb.jpg
+[image-44]:	https://i.imgur.com/6fngjkw.jpg
+[image-45]:	https://i.imgur.com/kbPYebU.jpg
+[image-46]:	https://i.imgur.com/FO3AuF9.jpg
+[image-47]:	https://i.imgur.com/dCw2DM8.jpg
+[image-48]:	https://i.imgur.com/43TPyFG.jpg
+[image-49]:	https://i.imgur.com/0UVWYEa.jpg
+[image-50]:	https://i.imgur.com/uQJZIsQ.jpg
+[image-51]:	https://i.imgur.com/7MfRmt7.jpg
+[image-52]:	https://i.imgur.com/VQWdfEQ.jpg
+[image-53]:	https://i.imgur.com/0e1UiVW.jpg
+[image-54]:	https://i.imgur.com/jT5807c.jpg
+[image-55]:	https://i.imgur.com/Q4TpGbf.jpg
+[image-56]:	https://i.imgur.com/prOGBgb.jpg
+[image-57]:	https://i.imgur.com/UXevA9V.jpg
+[image-58]:	https://i.imgur.com/f9QyvPA.jpg
+[image-59]:	https://i.imgur.com/udMgNCK.jpg
+[image-60]:	https://i.imgur.com/H5MzQEa.jpg
+[image-61]:	https://i.imgur.com/BubF9pp.jpg
+[image-62]:	https://i.imgur.com/jJwRkNK.jpg
+[image-63]:	https://i.imgur.com/L9chU73.jpg
+[image-64]:	https://i.imgur.com/FoOC4nj.jpg
+[image-65]:	https://i.imgur.com/0DMRNbn.jpg
+[image-66]:	https://i.imgur.com/IEkUrtU.jpg
+[image-67]:	https://i.imgur.com/GZN3Jch.jpg
+[image-68]:	https://i.imgur.com/CZwHMor.jpg
+[image-69]:	https://i.imgur.com/1D9FExV.jpg
+[image-70]:	https://i.imgur.com/Q99NyvM.jpg
+[image-71]:	https://i.imgur.com/Kfu3grD.jpg
+[image-72]:	https://i.imgur.com/5bPfnSI.jpg
+[image-73]:	https://i.imgur.com/KqkQE1p.jpg
+[image-74]:	https://i.imgur.com/kIgsYhG.jpg
+[image-75]:	https://i.imgur.com/E5rID3E.jpg
+[image-76]:	https://i.imgur.com/vfEw4SH.jpg
+[image-77]:	https://i.imgur.com/1VmESMf.jpg
+[image-78]:	https://i.imgur.com/mShmJDn.jpg
+[image-79]:	https://i.imgur.com/rBP9mS8.jpg
+[image-80]:	https://i.imgur.com/Ne7kHZp.jpg
+[image-81]:	https://i.imgur.com/6gbAMDU.jpg
+[image-82]:	https://i.imgur.com/Bgqgtlp.jpg
+[image-83]:	https://i.imgur.com/ZnwxZqb.jpg
+[image-84]:	https://i.imgur.com/ym5wR1p.jpg
+[image-85]:	https://i.imgur.com/588XjmP.jpg
+[image-86]:	https://i.imgur.com/pTXdMsX.jpg
+[image-87]:	https://i.imgur.com/YsdZUra.jpg
+[image-88]:	https://i.imgur.com/zrMrxiw.jpg
+[image-89]:	https://i.imgur.com/7ZnsR1y.jpg
+[image-90]:	https://i.imgur.com/331i3yV.jpg
+[image-91]:	https://i.imgur.com/aVayXGm.jpg
+[image-92]:	https://i.imgur.com/h3ZvAa4.jpg
+[image-93]:	https://i.imgur.com/L3MDclO.jpg
+[image-94]:	https://i.imgur.com/jqCAcTn.jpg
+[image-95]:	https://i.imgur.com/Ho7qBJY.jpg
