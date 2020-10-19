@@ -1,5 +1,4 @@
 ---
-Date: 12/14/18 9:45 am
 Permalink: invisible
 Tags: albums
 Title: Invisible Man

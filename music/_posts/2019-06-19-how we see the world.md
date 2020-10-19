@@ -1,5 +1,4 @@
 ---
-Date: june 19, 2019
 title: How We See The World
 permalink: world
 tags: albums
