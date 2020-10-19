@@ -6,6 +6,32 @@ permalink: music
 
 ![][image-1]
 
+---- 
+
+## Featured Albums
+
+<div class="grid">
+{% for post in site.tags["albums"] %}
+  <div class="gridBox">
+	<a href="{{ post.url }}">
+	{% assign foundImage = 0 %}
+	{% assign images = post.content | split:"<img " %}
+	{% for image in images %}
+		{% if image contains 'src' %}
+			{% if foundImage == 0 %}
+				{% assign html = image | split:"/>" | first %}
+				<img {{ html }} />
+				{% assign foundImage = 1 %}
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+	</a>
+  </div>
+{% endfor %}
+</div>
+
+---- 
+
 ## Discography
 
 - 2020 - [Chasing My Ghost][1]
@@ -34,30 +60,6 @@ permalink: music
 - 2005 - Underground Vol. 2
 - 2004 - Blast From The Past
 - 2003 - Underground Vol. 1
-
----- 
-
-## Featured Albums
-
-<div class="grid">
-{% for post in site.tags["albums"] %}
-  <div class="gridBox">
-	<a href="{{ post.url }}">
-	{% assign foundImage = 0 %}
-	{% assign images = post.content | split:"<img " %}
-	{% for image in images %}
-		{% if image contains 'src' %}
-			{% if foundImage == 0 %}
-				{% assign html = image | split:"/>" | first %}
-				<img {{ html }} />
-				{% assign foundImage = 1 %}
-			{% endif %}
-		{% endif %}
-	{% endfor %}
-	</a>
-  </div>
-{% endfor %}
-</div>
 
 [1]:	ghost
 [2]:	progress
