@@ -4,8 +4,6 @@ title: Photos
 permalink: photos
 ---
 
-![][image-1]
-
 {% assign postsByYear = site.categories.photos | group\_by\_exp: "post", "post.date | date: '%Y'" %}
 {% for yearS in postsByYear %}
 <h2>{{ yearS.name }}</h2>
@@ -29,5 +27,3 @@ permalink: photos
 	{% endfor %}
   </div>
 {% endfor %}
-
-[image-1]:	https://i.imgur.com/XELBmNv.png
