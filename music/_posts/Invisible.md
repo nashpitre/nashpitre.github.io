@@ -1,6 +1,6 @@
 ---
 Date: 12/14/18 9:45 am
-Permalink: Invisible
+Permalink: invisible
 Tags: albums
 Title: Invisible Man
 ---
