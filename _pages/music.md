@@ -6,6 +6,8 @@ permalink: music
 
 ![][image-1]
 
+## Discography
+
 - 2020 - [Chasing My Ghost][1]
 - 2020 - [The Illusion of Progress][2]
 - 2019 - [How We See The World][3]
@@ -34,6 +36,8 @@ permalink: music
 - 2003 - Underground Vol. 1
 
 ---- 
+
+## Featured Albums
 
 <div class="grid">
 {% for post in site.categories.music %}
