@@ -1,2 +1,9 @@
 // Custom CSS Elements
 //
+
+.video {
+  display: block;
+  max-width: 100%;
+  margin-bottom: var(--spacer);
+  border-radius: var(--border-radius);
+}

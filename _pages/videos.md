@@ -5,7 +5,7 @@ permalink: videos
 ---
 
 {% for post in site.categories.video limit:10 %}
-  <div>
+  <div class="video">
 	{{ post.content }}
   </div>
 {% endfor %}
