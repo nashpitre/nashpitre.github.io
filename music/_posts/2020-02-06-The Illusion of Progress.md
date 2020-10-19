@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Illusion of Progress
 permalink: progress
 tags: albums

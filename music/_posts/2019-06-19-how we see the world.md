@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How We See The World
 permalink: world
 tags: albums

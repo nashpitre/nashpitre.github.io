@@ -1,4 +1,5 @@
 ---
+layout: post
 permalink: unfamiliar
 tags: albums
 title: The Land of Unfamiliar
