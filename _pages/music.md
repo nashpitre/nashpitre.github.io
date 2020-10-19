@@ -68,4 +68,4 @@ permalink: music
 [7]:	/brother
 [8]:	/plasticsky
 
-[image-1]:	https://i.imgur.com/XxufeAA.jpg
+[image-1]:	https://i.imgur.com/Oru7Mgo.png
