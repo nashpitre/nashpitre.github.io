@@ -41,6 +41,7 @@ permalink: music
 
 <div class="grid">
 {% for post in site.categories.music %}
+  {% for post in site.tags.ablums %}
   <div class="gridBox">
 	<a href="{{ post.url }}">
 	{% assign foundImage = 0 %}
@@ -56,6 +57,7 @@ permalink: music
 	{% endfor %}
 	</a>
   </div>
+  {% endfor %}
 {% endfor %}
 </div>
 
