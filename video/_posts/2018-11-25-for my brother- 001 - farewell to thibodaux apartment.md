@@ -3,7 +3,7 @@ layout: post
 title: For My Brother: 001 - Farewell to Thibodaux Apartment
 ---
 
-<iframe src="https://youtu.be/d8Hpt5pLNjM"></iframe>
+<iframe width="1061" height="597" src="https://www.youtube.com/embed/d8Hpt5pLNjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---- 
 

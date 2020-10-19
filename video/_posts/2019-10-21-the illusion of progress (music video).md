@@ -3,4 +3,4 @@ layout: post
 title: "The Illusion of Progress (Music Video)"
 ---
 
-<iframe src="https://youtu.be/3Mm-htQBVhU"></iframe>
+<iframe width="1061" height="597" src="https://www.youtube.com/embed/3Mm-htQBVhU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
