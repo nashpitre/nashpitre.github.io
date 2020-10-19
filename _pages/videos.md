@@ -5,7 +5,7 @@ permalink: videos
 ---
 
 {% for post in paginator.posts %}
-  {% if post.categories contains video %}
+  {% if site.categories["video"] %}
     <div class="video">
   	  {{ post.content }}
     </div>
