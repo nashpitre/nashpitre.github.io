@@ -12,6 +12,8 @@ Table of contents:
 - [Photos][2]
 - [Shop][3]
 - [Subscribe][4]
+	- Newsletter
+	- Membership
 
 ---- 
 
