@@ -4,8 +4,10 @@ title: Videos
 permalink: videos
 ---
 
-{% for post in site.categories.video limit:10 %}
-  <div class="video">
-	{{ post.content }}
-  </div>
+{% for post in paginator.posts %}
+  {% if post.categories contains video %}
+    <div class="video">
+  	  {{ post.content }}
+    </div>
+  {% endif %}
 {% endfor %}
