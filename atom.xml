@@ -18,9 +18,9 @@ layout: null
  {% for post in site.categories.blog %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
-   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url | uri_escape }}"/>
+   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
+   <id>{{ site.url }}{{ post.id | uri_escape }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
