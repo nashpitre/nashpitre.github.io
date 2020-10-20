@@ -24,9 +24,7 @@ permalink: videos
   <h2>All Posts</h2>
   <ul>
 	{% for post in site.categories.video %}
-		{% for post in yearMonth.items %}
 		  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-		{% endfor %}
 	{% endfor %}
   </ul>
 </div>
