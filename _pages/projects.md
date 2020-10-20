@@ -6,7 +6,7 @@ permalink: projects
 
 ![][image-1]
 
-Table of contents:
+## Table of contents:
 
 - [Music][1]
 - [Photos][2]
