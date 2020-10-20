@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 8/27/19
-Permalink: wepss
-
-# My Enneagram Results (WEPSS)
+permalink: wepss
+title: My Enneagram Results (WEPSS)
+---
 
 ![][image-1]
 

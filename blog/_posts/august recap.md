@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 8/31/19
-
-# August Recap
+title: August Recap
+---
 
 ![][image-1]
 

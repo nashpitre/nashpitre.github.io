@@ -1,3 +1,5 @@
+---
+layout: post
 
 Date: 01/05/2020 11:15 pm
 

@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 5/12/17
-Tag: blonde
-
-# Endless
+Tags: blonde
+title: Endless
+---
 
 ![][image-1]
 

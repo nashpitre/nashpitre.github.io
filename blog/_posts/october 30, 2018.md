@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 10/30/18
-
-# October 30, 2018
+title: October 30, 2018
+---
 
 ## nshp.xyz
 

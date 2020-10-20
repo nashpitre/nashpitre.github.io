@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 09/30/19 11:45 pm
-
-# September Recap
+title: September Recap
+---
 
 ![][image-1]
 

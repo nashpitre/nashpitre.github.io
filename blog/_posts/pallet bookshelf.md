@@ -1,8 +1,10 @@
+---
+layout: post
 Permalink: Pallet Bookshelf
 Date: 03/02/16
-Tags: Featured
-
-# Pallet Bookshelf
+tags: Featured
+title: Pallet Bookshelf
+---
 
 ![Bookshelf][image-1]
 

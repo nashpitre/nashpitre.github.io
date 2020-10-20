@@ -1,3 +1,5 @@
+---
+layout: post
 
 title: "A Reminder: Go Be Great"
 ---

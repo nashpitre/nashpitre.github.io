@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: phone
 Date: 05/22/20 6:00 am
-
-# The No Phone Experiment
+title: The No Phone Experiment
+---
 
 ![][image-1]
 

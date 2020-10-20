@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/19/19
-Permalink: uncharted
-
-# Sailing The Uncharted
+permalink: uncharted
+title: Sailing The Uncharted
+---
 
 I’ve accomplished a lot in my 33 years, and I still have so many things ahead of me. When it comes to my creations and career goals, I truly am just getting started. It's such an exciting thought, when I brainstorm on the roadmap and vision I have for the years to come. I'll always be just getting started, because my perspective continues to evolve, while my creativity and wisdom continues to grow.
 

@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 10/12/20
-
-# Choose what you pay
+title: Choose what you pay
+---
 
 ![][image-1]
 

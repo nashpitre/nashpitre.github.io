@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 10/17/19
-
-# Three Jackets
+title: Three Jackets
+---
 
 Outside, there’s a cool breeze in the air. The season is changing. I opened up the little bag in the closet that holds the few winter items that I own. It was time to pull out the big guns (at least for me, I’m always cold). I pulled out my big green army looking jacket this morning (I also kept the windbreaker in my backpack just in case the big one was overkill).
 

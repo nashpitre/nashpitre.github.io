@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 6/21/19
-
-# A Few Podcast Recommendations
+title: A Few Podcast Recommendations
+---
 
 I listen to so many podcast. It's basically playing in my ear all day. My friend just asked for some podcast recommendations, so I figured I'd gather some of the best that I know to help her out.
 

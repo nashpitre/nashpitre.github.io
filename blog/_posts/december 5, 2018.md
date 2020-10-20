@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 12/5/18
-
-# December 5, 2018
+title: December 5, 2018
+---
 
 ## Thoughts on journal entries
 

@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 02/05/17
-Permalink: bolivia
-
-# Raising Money For Bolivia
+permalink: bolivia
+title: Raising Money For Bolivia
+---
 
 ![][image-1]
 

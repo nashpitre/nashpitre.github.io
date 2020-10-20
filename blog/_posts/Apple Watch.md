@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: apple-watch
 Date: 10/23/2018
-
-# Apple Watch
+title: Apple Watch
+---
 
 ![][image-1]
 

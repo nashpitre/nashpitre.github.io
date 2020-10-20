@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 05/18/2015
-Permalink: may-workouts
-
-# Seeing Progress With My Workouts
+permalink: may-workouts
+title: Seeing Progress With My Workouts
+---
 
 This month, I simplified my workouts and my goals for what I want. As someone who never lifted weights, doing a complete workout seemed out of my reach for the moment. I tried to follow some routines, but nothing seemed to stick. 
 

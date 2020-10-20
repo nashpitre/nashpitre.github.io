@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 2/28/19
-
-# February Recap
+title: February Recap
+---
 
 ![][image-1]
 

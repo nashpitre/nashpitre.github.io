@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 3/14/17
-Tags: Blonde
-
-# Blonde's Ending (Seigfried, Godspeed, Futura Free)
+tags: Blonde
+title: Blonde's Ending (Seigfried, Godspeed, Futura Free)
+---
 
 ![][image-1]
 

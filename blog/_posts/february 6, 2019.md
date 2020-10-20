@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 2/6/19
-
-# February 6, 2019
+title: February 6, 2019
+---
 
 ## Guest Post
 

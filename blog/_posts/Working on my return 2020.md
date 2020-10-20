@@ -1,9 +1,11 @@
+---
+layout: post
 
 Permalink: return-2020
 Date: 07/19/20 11:02 pm
-Page: yes
-
-# Working on my return
+page: yes
+title: Working on my return
+---
 
 ![][image-1]
 

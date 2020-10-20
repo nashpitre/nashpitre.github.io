@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/5/19
-Permalink: middle
-
-# Remove the Middle
+permalink: middle
+title: Remove the Middle
+---
 
 I’m fascinated by the conversations we’ve had these last few days. We’ve known each other since 4th grade, but we haven't talked in what feels like decades. You remember things from before I was even 10 years old (like my mom helping your cheer team, and how shy I used to be), things that I didn't even remember myself. And now, you’re seeing the person I am today, and you’re seeing the impact I'm having on the people around me.
 

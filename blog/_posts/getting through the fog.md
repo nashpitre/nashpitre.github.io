@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 10/19/19
-Permalink: fog
-
-# Getting Through The Fog
+permalink: fog
+title: Getting Through The Fog
+---
 
 For weeks, months, and almost a year now, there’s been fog clouding my life: in my thoughts, direction, relationships, purpose, and heart. It feels like a never-ending season of uncertainty. During these moments, the fog blocks all clarity, and all I want at that time is to simply see again.
 

@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 03/03/18
-Permalink: ztd
-
-# Minimal Productivity
+permalink: ztd
+title: Minimal Productivity
+---
 
 1. Collect
 2. Process

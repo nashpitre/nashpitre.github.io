@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 04/28/19
-
-# What’s your projects? Now move them along.
+title: What’s your projects? Now move them along.
+---
 
 ![][image-1]
 

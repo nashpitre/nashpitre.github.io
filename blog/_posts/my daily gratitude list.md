@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 3/27/19
-
-# My Daily Gratitude List
+title: My Daily Gratitude List
+---
 
 #### [nashp.com/thanks][1]
 

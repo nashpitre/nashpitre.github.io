@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 12/30/16
 
-Permalink: 2017-resolution
-
-# New Year's Resolution
+permalink: 2017-resolution
+title: New Year's Resolution
+---
 
 - Learn more
 - Write more

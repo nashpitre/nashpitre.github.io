@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 9/10/16
 Tags: Featured
 Permalink: grandma

@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/20/19
-Permalink: start
-
-# Start Where You Are
+permalink: start
+title: Start Where You Are
+---
 
 Start where you are. With what you have. Most people wait. They wait for that missing piece to the puzzle. That little solution that’ll make everything fall into place. They have an idea, but it’s not completely formulated yet. One day though, they think themselves, it’ll be there. They just need the right equipment. The right tools for the job. The right location. The right person to help them get to that next level. They plan on doing something big one day, but just not right now.
 

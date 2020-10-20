@@ -1,4 +1,7 @@
-# Dear Sariyah
+---
+layout: post
+title: Dear Sariyah
+---
 
 https://i.imgur.com/7pVaQKi.jpg
 

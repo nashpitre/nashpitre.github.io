@@ -1,3 +1,5 @@
+---
+layout: post
 
 Date: 03/14/18
 

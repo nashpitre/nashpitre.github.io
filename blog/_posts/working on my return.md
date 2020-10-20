@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 02/12/17
-
-# Working On My Return
+title: Working On My Return
+---
 
 I feel inspiration creeping back in. After a rough month, everything is beginning to become stable again, and I'm excited about the upcoming projects I'll be working on.
 

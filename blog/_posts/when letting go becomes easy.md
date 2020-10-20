@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 10/20/19
-Permalink: easy
-
-# When Letting Go Becomes Easy
+permalink: easy
+title: When Letting Go Becomes Easy
+---
 
 There’s inventory that we hold on to longer than we should (memories, possessions, people, jobs, mindsets, and so many other things that we connect our identities to, as if that’s all we’re made of). We’re defining our lives by something that showed up way after we existed, and yet now it controls us and our emotions on a daily basis. I believe it's important to take a step back when this happens and begin to reevaluate ourselves and our inventory.
 

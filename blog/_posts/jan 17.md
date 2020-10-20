@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 01/31/17
-Permalink: January2017
-
-# Monthly Recap (January 2017)
+permalink: January2017
+title: Monthly Recap (January 2017)
+---
 
 ![][image-1]
 

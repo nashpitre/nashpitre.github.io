@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 5/13/19
-
-# Pluto TV and the process of having black and white films loop 24/7
+title: Pluto TV and the process of having black and white films loop 24/7
+---
 
 ![][image-1]
 

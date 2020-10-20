@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 10/18/19
-Permalink: worse
-
-# It Could Be Worse
+permalink: worse
+title: It Could Be Worse
+---
 
 I have problems. We all do. And the more I talk to others, and the more I listen to what’s going on in their life, I begin to step out of my own little bubble and see the bigger picture. It’s not just me and my problems. It could be worse. Everyone is fighting their own giant.
 

@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 3/14/18
-
-# The Search for the Missing Quote (and an email from the author who wrote it)
+title: The Search for the Missing Quote (and an email from the author who wrote it)
+---
 
 I could only vaguely remember the quote. Every so often I would reach into my mind and try to remember what word she she used to describe someone she appreciated. I never heard someone described that way before, and from what I remembered, it was simple, yet poetic and deep. But no matter how much I tried to remember it, nothing would show up. Until today. I found it. 
 

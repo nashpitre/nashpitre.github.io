@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 10/1/19
 
 title: "Poetry: Self-Aware (10/01/19)"

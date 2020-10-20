@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 12/11/17
-
-# Gold Leaf Map Canvas
+title: Gold Leaf Map Canvas
+---
 
 ![][image-1]
 ![][image-2]

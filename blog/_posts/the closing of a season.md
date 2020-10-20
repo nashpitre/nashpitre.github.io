@@ -1,3 +1,5 @@
+---
+layout: post
 
 Permalink: close
 Date: 05/31/19 11:55 pm

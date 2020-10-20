@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 04/28/18
-
-# I deleted all of my information from Facebook
+title: I deleted all of my information from Facebook
+---
 
 All that’s left is my cover photo and my profile picture (didn’t want to completely delete the account yet, since it’s such a big form of communication with those around me). I spent the entire weekend deleting everything else. After backing up all of this information (didn’t want to regret not saving something first), it was time to start deleting. I had to turn on my old Mac mini, download the [Chrome][1] browser, download [Social Book Post Manager][2], a Chrome extension that let’s me meticulously go through every detail and decide what to do with it.
 

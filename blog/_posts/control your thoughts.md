@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 9/17/19
-
-# Control Your Thoughts
+title: Control Your Thoughts
+---
 
 In my headphones, the worship music has been playing all morning. It’s been my soundtrack, as I focus on everything that’s on my to-do list, tackling the dozens of things on today’s agenda. As the music plays, I’m reflecting on the world around me. All the amazing things that have been placed in my life: my job, my family, my friends, my possessions, my church, my perspective. I’m completely filled with gratitude this morning. 
 

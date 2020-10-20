@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 8/21/19
-
-# 15 Ways That I’ve Changed Things Up Lately
+title: 15 Ways That I’ve Changed Things Up Lately
+---
 
 ![][image-1]
 

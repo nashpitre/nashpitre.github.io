@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 10/5/18
 
 title: "Scratched Cornea: Productivity Life Hack"

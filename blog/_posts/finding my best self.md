@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 7/18/18
-
-# Finding My Best Self
+title: Finding My Best Self
+---
 
 I woke up this morning, at my usual time (4am), and I’ve been productive ever since. I was practicing time-lapses, and documenting my typical morning routine. As I was preparing for the day, I was also listening to a [podcast][1] that featured [Mango Street][2], and it inspired me to ask the question, *What is my best self?*
 

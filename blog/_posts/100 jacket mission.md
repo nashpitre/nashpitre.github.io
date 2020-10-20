@@ -1,8 +1,10 @@
+---
+layout: post
 
 permalink: jackets
 Date: 11/08/2018
-
-# 100 Jacket Mission
+title: 100 Jacket Mission
+---
 
 ![][image-1]
 

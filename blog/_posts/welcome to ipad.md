@@ -1,3 +1,5 @@
+---
+layout: post
 
 Date: 08/22/17
 Permalink: iPad-apps

@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: retail
 Date: 03/03/18
-
-# The End of Retail
+title: The End of Retail
+---
 
 ![][image-1]
 

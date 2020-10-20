@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 12/11/18
-
-# Little Buckets
+title: Little Buckets
+---
 
 ![][image-1]
 

@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 12/10/16
 
 title: "Pete and Sudi: Rekindling Lost Relationships"

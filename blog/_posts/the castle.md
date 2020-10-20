@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 4/27/19
-Permalink: castle
-
-# The Castle
+permalink: castle
+title: The Castle
+---
 
 ![][image-1]
 

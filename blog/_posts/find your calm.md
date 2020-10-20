@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/4/19
-Permalink: calm
-
-# Find Your Calm
+permalink: calm
+title: Find Your Calm
+---
 
 What does calm look like to you? There’s distractions pulling at us from every direction: agendas, expectations, people we don’t want to upset, deadlines needing to be met, money to be spent — disappointment. The list goes on, and it continues to grow the more we live this current lifestyle.
 

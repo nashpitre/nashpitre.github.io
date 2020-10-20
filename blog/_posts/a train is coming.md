@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 4/21/19
-
-# A Train Is Coming
+title: A Train Is Coming
+---
 
 
 ### Be not afraid.

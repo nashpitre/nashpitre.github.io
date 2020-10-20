@@ -1,7 +1,9 @@
+---
+layout: post
 
-Permalink: quantity
-
-# Aim for Quantity
+permalink: quantity
+title: Aim for Quantity
+---
 
 https://i.imgur.com/wfArCbR.jpg
 

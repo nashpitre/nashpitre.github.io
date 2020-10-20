@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 4/19/18
-
-# Revisiting J.Cole’s Born Sinner
+title: Revisiting J.Cole’s Born Sinner
+---
 
 ![][image-1]
 

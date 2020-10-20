@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 04/24/18
-
-# An April Newsletter
+title: An April Newsletter
+---
 
 # 🙋🏻‍♂️
 

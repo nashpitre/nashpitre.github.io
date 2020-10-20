@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 09/03/18
-Permalink: kamikaze
-
-# Kamikaze Review
+permalink: kamikaze
+title: Kamikaze Review
+---
 
 ![][image-1]
 

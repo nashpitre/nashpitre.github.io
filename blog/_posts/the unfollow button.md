@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 9/28/17
-
-# The Unfollow Button
+title: The Unfollow Button
+---
 
 Every social network has it, but I don't think people use it enough. My Instagram has zero followers. My Facebook feed only has a handful of friends. My Twitter feed only shows me a select group of people and websites that I want news and information from.
 

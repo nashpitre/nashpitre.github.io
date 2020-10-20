@@ -1,7 +1,9 @@
+---
+layout: post
 
-Permalink: us
-
-# Understanding Us
+permalink: us
+title: Understanding Us
+---
 
 ![][image-1]
 

@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 3/7/19
-
-# Larry
+title: Larry
+---
 
 ![][image-1]
 

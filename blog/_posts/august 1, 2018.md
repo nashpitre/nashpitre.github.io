@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 8/1/18
-
-# August 1, 2018
+title: August 1, 2018
+---
 
 ## Clarity
 

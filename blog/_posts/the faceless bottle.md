@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 10/8/19
-
-# The Faceless Bottle
+title: The Faceless Bottle
+---
 
 https://i.imgur.com/Yttvsjm.jpg
 https://i.imgur.com/6S6HNOk.jpg

@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 1/8/18
-
-# Bad Seasons
+title: Bad Seasons
+---
 
 This last week has been a blur. I was in bed sick 99% of the time. The weeks before that were a blur because of holiday retail, and the busyness that comes with the position. The weeks before that was a month-long break from blogging and Facebook, which left me agitated the entire time. 
 

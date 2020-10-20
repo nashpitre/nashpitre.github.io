@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: income
 Date: 10/28/16
-
-# Diversifying My Income
+title: Diversifying My Income
+---
 
 ![][image-1]
 

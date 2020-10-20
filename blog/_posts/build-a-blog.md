@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 1/14/19
-Permalink: build-a-blog
-
-# Build A Blog
+permalink: build-a-blog
+title: Build A Blog
+---
 
 There’s just a few things you’ll need to know about before starting:
 

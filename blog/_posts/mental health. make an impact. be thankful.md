@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 4/10/19
-
-# Mental Health. Make An Impact. Be Thankful.
+title: Mental Health. Make An Impact. Be Thankful.
+---
 
 I want to update you on a few things that’s going on right now. You have an opportunity to join me on this current project that I’m wrapping up.
 

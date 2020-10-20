@@ -1,7 +1,9 @@
+---
+layout: post
 Permalink: do
 Date: 04/05/18
-
-# Doing More and Not Settling
+title: Doing More and Not Settling
+---
 
 Friend:
 

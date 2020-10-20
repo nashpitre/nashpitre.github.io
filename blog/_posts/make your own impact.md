@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 9/6/18
-
-# Make Your Own Impact
+title: Make Your Own Impact
+---
 
 Too many people are watching. Scrolling. Responding/reacting. Defense. 
 

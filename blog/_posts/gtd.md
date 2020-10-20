@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 09/10/17
 
-Permalink: gtd
-
-# Getting Things Done (a lot of things)
+permalink: gtd
+title: Getting Things Done (a lot of things)
+---
 
 ![][image-1]
 

@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: minimalism-update
 Date: 12/22/16
-
-# Minimalism Update (12/22/16)
+title: Minimalism Update (12/22/16)
+---
 
 ![][image-1]
 

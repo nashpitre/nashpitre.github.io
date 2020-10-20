@@ -1,3 +1,5 @@
+---
+layout: post
 
 Date: 11/30/18 11:55 pm
 

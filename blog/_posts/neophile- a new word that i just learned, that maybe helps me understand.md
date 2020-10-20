@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 8/26/19
 
 title: "Neophile: A new word that I just learned, that maybe helps me understand myself better"

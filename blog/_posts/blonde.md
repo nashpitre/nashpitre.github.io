@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 8/25/16
 Tags: Featured, Frank Ocean, Music, Blonde
-Permalink: blonde
-
-# My Thoughts on Blonde, Frank Ocean's New Album
+permalink: blonde
+title: My Thoughts on Blonde, Frank Ocean's New Album
+---
 
 ![][image-1]
 

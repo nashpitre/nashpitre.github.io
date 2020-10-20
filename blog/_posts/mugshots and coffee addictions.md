@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 09/13/17
-
-# Mugshots and Coffee Addictions
+title: Mugshots and Coffee Addictions
+---
 
 ![][image-1]
 

@@ -1,3 +1,5 @@
+---
+layout: post
 
 Date: 08/24/19
 Permalink: brain

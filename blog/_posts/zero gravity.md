@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 06/05/17
 
-Tags: Featured
-
-# Zero Gravity
+tags: Featured
+title: Zero Gravity
+---
 
 ![][image-1]
 

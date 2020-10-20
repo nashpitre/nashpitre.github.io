@@ -1,4 +1,7 @@
-# No Phone Experiment: Lasted 22 Days
+---
+layout: post
+title: No Phone Experiment: Lasted 22 Days
+---
 
 ![][image-1]
 

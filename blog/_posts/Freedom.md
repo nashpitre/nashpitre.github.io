@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 05/30/19 6:23 pm
-Permalink: freedom
-
-# What Freedom Looks Like
+permalink: freedom
+title: What Freedom Looks Like
+---
 
 ![][image-1]
 

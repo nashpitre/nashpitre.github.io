@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 5/1/19
-
-# Go do your thing. You’re gonna die.
+title: Go do your thing. You’re gonna die.
+---
 
 ![][image-1]
 

@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 8/27/16
-Permalink: rolling shirts
-
-# Rolling Shirts and Letting Go of Hangers
+permalink: rolling shirts
+title: Rolling Shirts and Letting Go of Hangers
+---
 
 ![][image-1]
 

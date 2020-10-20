@@ -1,9 +1,11 @@
+---
+layout: post
 
 Permalink: gym
 Date: 09/09/17
-Tags: Featured
-
-# A Gym
+tags: Featured
+title: A Gym
+---
 
 ![][image-1]
 

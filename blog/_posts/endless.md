@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 07/02/17
-
-# Endless
+title: Endless
+---
 
 ![][image-1]
 

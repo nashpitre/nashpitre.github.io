@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 10/20/17
-Permalink: best-man
-
-# The Best Man’s Speech
+permalink: best-man
+title: The Best Man’s Speech
+---
 
 ![][image-1]
 

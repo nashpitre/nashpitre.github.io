@@ -1,10 +1,10 @@
-
+---
+layout: post
 Date: 09/08/17
-Tags: Featured
-Permalink: patreon
-
-
-# Patreon
+tags: Featured
+permalink: patreon
+title: Patreon
+---
 
 ![][image-1]
 

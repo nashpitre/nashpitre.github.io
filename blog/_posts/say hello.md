@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/21/19
-Permalink: hey
-
-# Say Hello
+permalink: hey
+title: Say Hello
+---
 
 A few months ago, I added a feature to the top of my site for those who want to send me a private message. Throughout the week, I’ll check my email in the morning and see a private message waiting for me. Someone saying hello. Someone asking for advice. Someone sharing their thoughts on whatever they just read. The email shows what page they’re replying from, so it helps with the context and knowing what triggered their thoughts and inspired them to send that message. It’s one of my favorite new features to the site, and it’s something I’ve wanted for a long time.
 

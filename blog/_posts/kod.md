@@ -1,9 +1,10 @@
+---
+layout: post
 Date: 4/20/18
-Permalink: kod
-Tags: Featured
-
-
-# J.Cole - KOD (Review)
+permalink: kod
+tags: Featured
+title: J.Cole - KOD (Review)
+---
 
 ![][image-1]
 

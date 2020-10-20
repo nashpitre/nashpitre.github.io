@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 10/15/16
-
-# My 2017 Toyota Corolla iM
+title: My 2017 Toyota Corolla iM
+---
 
 ![][image-1]
 

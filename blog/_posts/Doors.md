@@ -1,7 +1,9 @@
+---
+layout: post
 permalink: doors
-date: 3/12/2020 11:10 am
-
-# Doors
+Date: 3/12/2020 11:10 am
+title: Doors
+---
 
 ![][image-1]
 

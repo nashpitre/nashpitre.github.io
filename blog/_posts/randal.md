@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: randal
 Date: 01/30/17
-
-# Rest In Peace, Randal
+title: Rest In Peace, Randal
+---
 
 ![][image-1]
 

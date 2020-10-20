@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 6/24/19
-
-# How To Find Yourself
+title: How To Find Yourself
+---
 
 I'll expand on this more later. But for now, here's to helping a friend who simply said:
 

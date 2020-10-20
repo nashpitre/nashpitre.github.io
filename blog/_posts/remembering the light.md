@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 9/8/19
-
-# Remembering the Light
+title: Remembering the Light
+---
 
 ![][image-1]
 

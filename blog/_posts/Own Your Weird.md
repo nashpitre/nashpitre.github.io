@@ -1,4 +1,7 @@
-# Own Your Weird
+---
+layout: post
+title: Own Your Weird
+---
 
 ![][image-1]
 

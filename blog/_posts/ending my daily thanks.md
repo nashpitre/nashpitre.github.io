@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 6/12/19
-Permalink: ending-thanks
-
-# Ending My Daily Thanks
+permalink: ending-thanks
+title: Ending My Daily Thanks
+---
 
 ### What are three things you're [thankful][1] for today?
 

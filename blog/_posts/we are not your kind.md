@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 8/15/19
-
-# We Are Not Your Kind
+title: We Are Not Your Kind
+---
 
 ![][image-1]
 

@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 6/1/16
-
-# Own Less. Love More.
+title: Own Less. Love More.
+---
 
 ![][image-1]
 

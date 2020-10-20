@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 02/25/2020 4:23 pm
-Permalink: things
-
-# Things
+permalink: things
+title: Things
+---
 
 ![][image-1]
 

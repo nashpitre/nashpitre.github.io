@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 6/5/19
-
-# Iterating On An Album
+title: Iterating On An Album
+---
 
 It’s been a few months since I opened up any studio sessions and worked on the album. I stashed the album away for awhile, to return to it with fresh ears. The return happened last night.
 

@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 12/09/17
-
-# Make Lists, Improve Your Day
+title: Make Lists, Improve Your Day
+---
 
 ![][image-1]
 

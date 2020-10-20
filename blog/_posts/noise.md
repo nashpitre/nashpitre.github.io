@@ -1,8 +1,10 @@
+---
+layout: post
 Permalink: noise
 Date: 11/10/16
-Tags: Featured
-
-# The Noise
+tags: Featured
+title: The Noise
+---
 
 ![][image-1]
 

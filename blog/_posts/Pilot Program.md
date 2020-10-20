@@ -1,3 +1,5 @@
+---
+layout: post
 
 Date: June 4, 2019
 

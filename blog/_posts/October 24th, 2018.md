@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: Oct. 24, 2018
-
-# October 24, 2018
+title: October 24, 2018
+---
 
 ## Traveling
 

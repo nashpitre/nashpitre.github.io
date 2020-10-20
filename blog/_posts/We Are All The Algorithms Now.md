@@ -1,4 +1,7 @@
-# We Are All The Algorithms Now
+---
+layout: post
+title: We Are All The Algorithms Now
+---
 
 ![][image-1]
 

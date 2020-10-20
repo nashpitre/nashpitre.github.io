@@ -1,3 +1,5 @@
+---
+layout: post
 
 Page: yes
 Permalink: sickness

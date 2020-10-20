@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 05/31/19 11:58 pm
-Permalink: may-recap
-
-# May Recap
+permalink: may-recap
+title: May Recap
+---
 
 ![][image-1]
 

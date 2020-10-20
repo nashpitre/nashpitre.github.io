@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 12/9/19
-Permalink: fan 
-
-# Become Your Biggest Fan
+permalink: fan 
+title: Become Your Biggest Fan
+---
 
 Become your biggest fan. Whatever it is you do. Even if nobody else cares about it. You care. So get excited about those things that you care about.￼￼
 

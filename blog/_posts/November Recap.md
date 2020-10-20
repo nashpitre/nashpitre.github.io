@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 11/30/19 11:55 pm
-
-# November Recap
+title: November Recap
+---
 
 ![][image-1]
 

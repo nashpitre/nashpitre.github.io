@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 9/7/19
-Permalink: present
-
-# Being Present
+permalink: present
+title: Being Present
+---
 
 ![][image-1]
 

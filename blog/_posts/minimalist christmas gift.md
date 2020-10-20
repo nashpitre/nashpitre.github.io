@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 12/25/16
-Tags: Featured
-
-# A Simple Christmas Gift To And From My 6 Year-Old Brother
+tags: Featured
+title: A Simple Christmas Gift To And From My 6 Year-Old Brother
+---
 
 ![][image-1]
 

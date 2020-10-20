@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 4/3/18
-
-# A simple recipe to auto-blog any YouTube video I like
+title: A simple recipe to auto-blog any YouTube video I like
+---
 
 
 Four things are working at once:

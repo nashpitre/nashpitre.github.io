@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 12/1/16
-
-# Returning From The Blackout
+title: Returning From The Blackout
+---
 
 ![][image-1]
 

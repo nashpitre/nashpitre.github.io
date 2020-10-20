@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 9/28/18
-Permalink: community
-
-# Community
+permalink: community
+title: Community
+---
 
 ![][image-1]
 

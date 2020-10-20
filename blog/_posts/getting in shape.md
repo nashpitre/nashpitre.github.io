@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 01/23/2015
-Permalink: workout
-
-# Getting in Shape
+permalink: workout
+title: Getting in Shape
+---
 
 My daily lifestyle has changed a lot over the years. Because of lack of time, lower metabolism, etc.—it's been much harder for me to stay in shape. I don't do the New Years Resolution thing like most people, but since this year started, I've been privately pushing myself to get into the best shape of my life. I've been waking up a few hours early (5am to be exact), to run, play basketball, or workout.
 

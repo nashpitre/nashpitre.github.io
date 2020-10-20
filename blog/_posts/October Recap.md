@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 10/31/19
-Permalink: october-recap
-
-# October Recap
+permalink: october-recap
+title: October Recap
+---
 
 ![][image-1]
 

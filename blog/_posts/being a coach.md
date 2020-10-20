@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/17/19
-Permalink: coach
-
-# Being a Coach
+permalink: coach
+title: Being a Coach
+---
 
 ![][image-1]
 

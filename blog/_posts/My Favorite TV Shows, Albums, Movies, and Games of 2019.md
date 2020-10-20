@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 12/31/2019 11:55 pm
-
-# My Favorite TV Shows, Albums, Movies, and Games of 2019
+title: My Favorite TV Shows, Albums, Movies, and Games of 2019
+---
 
 #### Here’s all my favorites from 2019, all together on one page.
 ￼

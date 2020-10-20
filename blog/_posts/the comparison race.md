@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 10/22/19
-Permalink: race
-
-# The Comparison Race
+permalink: race
+title: The Comparison Race
+---
 
 All of our lives look different, as they're supposed to. Success isn’t measured the same, and what brings me fulfillment and happiness will look completely different to the next person. It's a race that we're all running, where nobody is in front of us, nobody behind us, and the only way to lose this race is to actually stop running altogether.
 

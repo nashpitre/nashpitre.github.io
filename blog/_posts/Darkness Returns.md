@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 08/14/19
-
-# Darkness Returns
+title: Darkness Returns
+---
 
 ![][image-1]
 

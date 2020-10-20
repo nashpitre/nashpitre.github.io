@@ -1,9 +1,9 @@
-
-Date: 05/13/20 11:14 am
-Permalink: thanks
-Title: The Thankful Project
-
-# The Thankful Project
+---
+layout: post
+date: 05/13/20 11:14 am
+permalink: thanks
+title: The Thankful Project
+---
 
 ![][image-1]
 

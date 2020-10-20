@@ -1,8 +1,8 @@
-
-Page: yes
-Permalink: olivia
-
-# Olivia
+---
+layout: post
+permalink: olivia
+title: Olivia
+---
 
 ![][image-1]
 

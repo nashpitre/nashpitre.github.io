@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/7/19
-Permalink: drift
-
-# Drifting Down
+permalink: drift
+title: Drifting Down
+---
 
 A year later. Who I was. Who I wanted to be. All the ambition. Where I thought I was going. The plan I had in place. Nothing looks the same. The plan I had then is different now. In a good way. It starts with excitement. Then it starts to fade. Until it’s gone. You spend time trying to build it back up. But that’s harder than simply accepting this new version of yourself. The inertia. The force stopping you to move with momentum again. Trying to go against the current instead of flowing with the world and the season you’re currently in.
 

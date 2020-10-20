@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 9/1/16
 Tags: Featured
-Permalink: writing-archives-friends
-
-# Writing, Archives, Friends
+permalink: writing-archives-friends
+title: Writing, Archives, Friends
+---
 
 I have so many blog posts that I'm currently working on. Can't wait to share them with you. I could remember earlier this year, when I had nothing to say. I couldn't think of anything to write about on my site. I didn't stress over it though, I knew it wasn't my season to say anything. But now, that season is definitely over, because words are pouring out of me. I feel like everything is finally clicking. As a writer, that's the best feeling in the world.
 

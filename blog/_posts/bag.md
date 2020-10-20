@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: bag
 Date: 3/4/18
-
-# What’s In My Bag
+title: What’s In My Bag
+---
 
 ![][image-1]
 

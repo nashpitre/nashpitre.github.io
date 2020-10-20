@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 12/7/16
 
 title: "Back to Dropbox: Organizing My Digital Files"

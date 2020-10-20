@@ -1,7 +1,9 @@
+---
+layout: post
 
-Permalink: glen
-
-# Press Reply. Say Hello. Rest In Peace.
+permalink: glen
+title: Press Reply. Say Hello. Rest In Peace.
+---
 
 ![][image-1]
 

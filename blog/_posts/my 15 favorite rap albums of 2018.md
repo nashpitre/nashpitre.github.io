@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 12/28/18
-
-# My 15 Favorite Rap Albums of 2018
+title: My 15 Favorite Rap Albums of 2018
+---
 
 [https://i.imgur.com/B7dFfBe.png][1]
 

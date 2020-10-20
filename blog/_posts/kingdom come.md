@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 12/21/17
-Permalink: kingdom-come
-
-# Revisiting Jay Z’s Kingdom Come, and still, it’s not a good album.
+permalink: kingdom-come
+title: Revisiting Jay Z’s Kingdom Come, and still, it’s not a good album.
+---
 
 ![][image-1]
 

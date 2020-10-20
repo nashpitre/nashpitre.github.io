@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 01/31/19 9 pm
-
-# January Recap
+title: January Recap
+---
 
 - Four years at Cross Church
 - For My Brother: Christmas Morning

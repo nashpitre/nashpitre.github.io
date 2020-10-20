@@ -1,7 +1,9 @@
+---
+layout: post
 Permalink: morning
 Date: 03/20/18
-
-# My Morning Routine
+title: My Morning Routine
+---
 
 ![][image-1]
 

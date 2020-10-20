@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 1/13/18
-Permalink: cc3
-
-# 3 Years At Cross Church, 20 Months With No Alcohol
+permalink: cc3
+title: 3 Years At Cross Church, 20 Months With No Alcohol
+---
 
 ![][image-1]
 

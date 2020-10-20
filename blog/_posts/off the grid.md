@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/11/19
-Permalink: grid
-
-# Off The Grid
+permalink: grid
+title: Off The Grid
+---
 
 The disconnect. It rarely happens. The network is always flowing through us. The stimulation of a connection. Our devices, within arms reach: an extension of our body, like another ligament they offer us, paying monthly to stay attached.
 

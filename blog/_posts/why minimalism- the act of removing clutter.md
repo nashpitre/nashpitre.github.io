@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 12/27/16
 Permalink: removing-clutter
 Tags: Featured

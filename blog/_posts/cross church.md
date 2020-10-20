@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 2/21/19
 Page: yes
-Permalink: cc
-
-# Cross Church
+permalink: cc
+title: Cross Church
+---
 
 ![][image-1]
 

@@ -1,7 +1,9 @@
+---
+layout: post
 
-Permalink: aim
-
-# Aim Higher
+permalink: aim
+title: Aim Higher
+---
 
 ![][image-1]
 

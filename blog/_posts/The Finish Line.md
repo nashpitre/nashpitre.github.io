@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 2/17/19
-
-# The Finish Line
+title: The Finish Line
+---
 
 ![][image-1]
 

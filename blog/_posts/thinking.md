@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 9/28/19
-Permalink: thinking
-
-# Unhelpful Thinking Styles
+permalink: thinking
+title: Unhelpful Thinking Styles
+---
 
 ![][image-1]
 

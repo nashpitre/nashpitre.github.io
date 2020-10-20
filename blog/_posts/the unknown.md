@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/25/19
-Permalink: unknown
-
-# The Unknown
+permalink: unknown
+title: The Unknown
+---
 
 The unknown. The uncertainty. What tomorrow might hold. We’re afraid of it. The fear of not knowing paralyzes us to the point that we're now on the sidelines, watching life happen around us. Frozen on defense. Afraid of the moving target instead of taking action on what’s ahead.
 

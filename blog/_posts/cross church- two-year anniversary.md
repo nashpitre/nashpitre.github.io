@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 1/28/17
-Permalink: cc2
-
-# My Two-Year Anniversary at Cross Church
+permalink: cc2
+title: My Two-Year Anniversary at Cross Church
+---
 
 ![][image-1]
 

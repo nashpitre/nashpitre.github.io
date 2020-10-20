@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: cc4
 Date: 01/25/19 2:53 pm
-
-# Four Years at Cross Church
+title: Four Years at Cross Church
+---
 
 ![][image-1]
 

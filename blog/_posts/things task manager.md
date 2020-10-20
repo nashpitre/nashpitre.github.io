@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 12/09/17
 
 title: "Things: A Task Manager"

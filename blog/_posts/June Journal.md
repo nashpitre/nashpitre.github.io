@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 06/14/2019
-
-# June Journal
+title: June Journal
+---
 
 ![][image-1]
 

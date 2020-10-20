@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 12/23/2013
 Permalink: nevaeh-ipad
-Tags: Featured
-
-# Giving Nevaeh My iPad for Christmas
+tags: Featured
+title: Giving Nevaeh My iPad for Christmas
+---
 
 ![][image-1]
 

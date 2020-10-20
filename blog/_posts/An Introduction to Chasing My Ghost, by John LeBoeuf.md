@@ -1,8 +1,8 @@
-
+---
+layout: post
 Date: 7/12/20 10:20 pm
-Page: yes
-
-# An Introduction to Chasing My Ghost, by John LeBoeuf
+title: An Introduction to Chasing My Ghost, by John LeBoeuf
+---
 
 ![][image-1]
 

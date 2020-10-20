@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 6/19/19
 Permalink: nubu
 Page: yes

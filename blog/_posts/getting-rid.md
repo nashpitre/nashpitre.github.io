@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 8/25/16
-Permalink: getting-rid
-
-# The easiest way to organize your stuff is to get rid of most of it
+permalink: getting-rid
+title: The easiest way to organize your stuff is to get rid of most of it
+---
 
 [https://dl.dropboxusercontent.com/s/id2lvqq7dxerx4a/IMG\_5100.jpeg][1]
 

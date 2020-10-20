@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: mad
 Date: 06/18/20 6:13 pm
-
-# You're Mad
+title: You're Mad
+---
 
 ![][image-1]
 

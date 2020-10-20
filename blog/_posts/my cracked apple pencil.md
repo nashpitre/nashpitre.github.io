@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 04/12/18
-
-# My Cracked Apple Pencil
+title: My Cracked Apple Pencil
+---
 
 ![][image-1]
 

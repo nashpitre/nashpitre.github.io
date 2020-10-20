@@ -1,9 +1,11 @@
+---
+layout: post
 
 Permalink: 092820
 Date: 09/28/20 10:24 pm
-Page: yes
-
-# Monday — September 28, 2020
+page: yes
+title: Monday — September 28, 2020
+---
 
 ![][image-1]
 

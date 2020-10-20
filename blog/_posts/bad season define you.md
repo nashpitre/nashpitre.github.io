@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 5/16/19
-
-# Don't let a bad season define you
+title: Don't let a bad season define you
+---
 
 ![][image-1]
 

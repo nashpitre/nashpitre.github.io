@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: transform-chase
 Date: 01/08/2016
-
-# About my friend, Chase Toups, and how God is working in his life
+title: About my friend, Chase Toups, and how God is working in his life
+---
 
 I'm still learning how to have faith, and I'm still learning how to believe in you, and how to have a relationship with you. But what I have learned, and what I'm most thankful for, is the relationship you've had with my friend, Chase Toups. The transformation you've done on him has made me believe in you more than anything else. 
 

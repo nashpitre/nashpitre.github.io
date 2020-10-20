@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 11/21/19
-Permalink: comments
-
-# Anonymous Comments
+permalink: comments
+title: Anonymous Comments
+---
 
 ![][image-1]
 

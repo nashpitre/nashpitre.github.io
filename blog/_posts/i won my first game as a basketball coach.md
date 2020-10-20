@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 12/13/19
-Permalink: won
-
-# I won my first game as a basketball coach
+permalink: won
+title: I won my first game as a basketball coach
+---
 
 ![][image-1]
 

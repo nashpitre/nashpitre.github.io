@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 10/25/19
-Permalink: work
-
-# What do you do for work?
+permalink: work
+title: What do you do for work?
+---
 
 What do you do for work? We all come from different walks of life, learning different sets of skills, and these skills help us pay all of our expenses and bills each month. Whether we’re doing our job because we love it, or simply because it's keeping the lights on and food on the table — either way, it's part of our identity. (Maybe you’re in-between jobs and are currently unemployed. I hope this post serves as inspiration for what’s next.)
 

@@ -1,8 +1,10 @@
+---
+layout: post
 
 Tags: Featured
 Date: 01/04/17
-
-# Good Morning, 5am
+title: Good Morning, 5am
+---
 
 ![][image-1]
 

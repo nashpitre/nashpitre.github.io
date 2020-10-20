@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 12/18/16
 Permalink: blonde-tracks
-Tags: Blonde
-
-# "Self Control" and "Nights" from Frank Ocean's Blonde album
+tags: Blonde
+title: "Self Control" and "Nights" from Frank Ocean's Blonde album
+---
 
 ![][image-1]
 

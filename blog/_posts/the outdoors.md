@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 2/16/18
-Permalink: outdoors
-
-# The Outdoors
+permalink: outdoors
+title: The Outdoors
+---
 
 ![][image-1]
 

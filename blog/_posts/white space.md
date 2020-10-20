@@ -1,3 +1,5 @@
+---
+layout: post
 Permalink: white-space
 Date: 12/1/17 00:05
 

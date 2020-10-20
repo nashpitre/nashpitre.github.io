@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 10/28/19
-Permalink: slot
-
-# Slot Machines
+permalink: slot
+title: Slot Machines
+---
 
 It’s a slot machine. All of it. It happens daily. As soon as I share a thought online. As soon as I send out a text message and wait for the response. As soon as I open Twitter and start scrolling through all my favorite sources of information. The Like I receive on Facebook after publishing something. The person that decided to subscribe to my blog, or the donation someone gives the site to help support it. For me personally, the list is very long, and it takes intense intentionality to fight the stimulation. It’s all there at my fingertips, whether I like it or not, but how much will I allow into my life?
 

@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 8/18/16
 Tags: Featured
 Permalink: how-can-I-help

@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 06/30/19 11:55 pm
-Permalink: june-recap
-
-# June Recap
+permalink: june-recap
+title: June Recap
+---
 
 ![][image-1]
 

@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 06/27/18
-
-# A Season of Transition (what I’ve been up to)
+title: A Season of Transition (what I’ve been up to)
+---
 
 ## Create
 

@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 2/12/19
 
 title: "Exodus 14:14"

@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 1/10/19
-
-# January 10, 2019
+title: January 10, 2019
+---
 
 ![][image-1]
 

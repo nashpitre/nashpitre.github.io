@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 11/27/18
-
-# November 27, 2018
+title: November 27, 2018
+---
 
 ![][image-1]
 

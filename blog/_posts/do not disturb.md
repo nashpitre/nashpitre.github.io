@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 9/14/19
-Permalink: dnd
-
-# Do Not Disturb
+permalink: dnd
+title: Do Not Disturb
+---
 
 ![][image-1]
 

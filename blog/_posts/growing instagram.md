@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 12/5/19
-
-# Growing Instagram
+title: Growing Instagram
+---
 
 #### My Instagram: [@nashpitre][1]
 

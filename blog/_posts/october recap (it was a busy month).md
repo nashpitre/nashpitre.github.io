@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 10/31/18
-
-# October Recap (It was a busy month)
+title: October Recap (It was a busy month)
+---
 
 ###### It’s been awhile since I’ve had this much peace and clarity in my life. In all three areas (Personal, Work, and Creativity), October was good a month for me. Let’s see why.
 

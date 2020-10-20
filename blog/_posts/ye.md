@@ -1,6 +1,7 @@
+---
+layout: post
 Permalink: ye
 Date: 06/02/18
-
 title: "Ye: My Thoughts On The Album"
 ---
 

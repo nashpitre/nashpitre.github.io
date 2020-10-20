@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 12/02/2012
 Permalink: family-friends
-Tags: Featured
-
-# Family and Friends
+tags: Featured
+title: Family and Friends
+---
 
 Family and friends. Don’t take those two for granted. I’ve seen new people and new items come into my life that seem fulfilling, but looking back, they were only temporary.
 

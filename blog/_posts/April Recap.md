@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 04/30/19 5:43 pm
-Permalink: april-recap
-
-# April Recap
+permalink: april-recap
+title: April Recap
+---
 
 ![][image-1]
 

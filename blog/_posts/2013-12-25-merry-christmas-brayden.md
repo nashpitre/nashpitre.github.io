@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 12/25/2013
-Permalink: christmas-brayden
-
-# Merry Christmas, Brayden
+permalink: christmas-brayden
+title: Merry Christmas, Brayden
+---
 
 ![][image-1]
 

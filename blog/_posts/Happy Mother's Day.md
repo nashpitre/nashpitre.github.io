@@ -1,7 +1,9 @@
+---
+layout: post
 
-Permalink: mothers-day
-
-# Happy Mother's Day
+permalink: mothers-day
+title: Happy Mother's Day
+---
 
 ![][image-1]
 

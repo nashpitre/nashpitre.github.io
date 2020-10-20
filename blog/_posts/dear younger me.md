@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 9/5/16
 Tags: Featured
-Permalink: Dear Younger Me
-
-# Dear Younger Me
+permalink: Dear Younger Me
+title: Dear Younger Me
+---
 
 ![][image-1]
 

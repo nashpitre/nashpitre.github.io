@@ -1,6 +1,7 @@
+---
+layout: post
 Date: 6/29/18
-Permalink: scorpion
-
+permalink: scorpion
 title: "Scorpion: My Thoughts and My Version"
 ---
 

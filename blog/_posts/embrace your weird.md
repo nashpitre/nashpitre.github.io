@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 10/21/19
-Permalink: weird
-
-# Embrace Your Weird
+permalink: weird
+title: Embrace Your Weird
+---
 
 There's things about me that are unusual and would probably qualify me as someone who's unique: my artistic side, the daily blogging, the 25 rap albums recorded, the not drinking alcohol or going out to bars, the fact that I have less than 50 items that I own, the fact that I'm still single and don't have any kids yet, the fact that I've been going to church for 5 years and still struggle with faith and believing — the list goes on and on.
 

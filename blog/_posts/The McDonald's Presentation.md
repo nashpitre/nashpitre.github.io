@@ -1,9 +1,11 @@
+---
+layout: post
 
 
 Date: 03/28/2012
-Permalink: mcdonalds
-
-# The McDonald's Presentation
+permalink: mcdonalds
+title: The McDonald's Presentation
+---
 
 #### A story about a man that tried to understand today's technology. Written March 28, 2012
 

@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 4/20/19
-
-# Transparency. Creativity. Compassion
+title: Transparency. Creativity. Compassion
+---
 
 Transparency. Creativity. Compassion. A combination of being vulnerable, but also being a beacon of light, sums up this new version of myself.
 

@@ -1,7 +1,9 @@
+---
+layout: post
 
 Date: 06/05/16
-
-# Thoughts On My Next President
+title: Thoughts On My Next President
+---
 
 ![][image-1]
 

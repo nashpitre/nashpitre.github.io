@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 11/9/19
-Permalink: rest
-
-# You Need to Rest
+permalink: rest
+title: You Need to Rest
+---
 
 A few months ago, I had plans set in place. To close out the fourth quarter strong. October, November, December. There were music videos ready to release, three books, an album, a weekly podcast, all ready to go. I was prepped to start releasing YouTube videos regularly. I had other smaller plans in place, like starting a book club with a small group of people, and traveling to Missouri for 10 days. I was also going through depression, seeing a counselor, and bunch of other things all at once, while still keeping everything together. Still staying on track to complete the year the way I planned. I had it all under control. Each project was strategically lined up to knockout through the quarter. It was my grande finale. Then something changed.
 

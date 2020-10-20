@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 04/13/2013
 Permalink: trampoline
-Tags: Featured
-
-# The Trampoline Trick
+tags: Featured
+title: The Trampoline Trick
+---
 
 ![][image-1]
 

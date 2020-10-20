@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 5/20/19
-
-# Notes on The Four Agreements
+title: Notes on The Four Agreements
+---
 
 ![][image-1]
 

@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: july-recap
 Date: 07/07/19 8:55 pm
-
-# July Recap
+title: July Recap
+---
 
 ![][image-1]
 

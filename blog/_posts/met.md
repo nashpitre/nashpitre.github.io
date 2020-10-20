@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 6/6/19
 Permalink: met
 

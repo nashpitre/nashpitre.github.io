@@ -1,9 +1,11 @@
+---
+layout: post
 
 Permalink: eyez
 Date: 12/14/16
-Tags: Featured
-
-# J.Cole - 4 Your Eyez Only (Review)
+tags: Featured
+title: J.Cole - 4 Your Eyez Only (Review)
+---
 
 ![][image-1]
 

@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 7/8/19
-
-# Log your time and what you’ve been up to, every 30 minutes
+title: Log your time and what you’ve been up to, every 30 minutes
+---
 
 I was told yesterday, from my Pastor’s wife that every 30 minutes, he logs what he’s been up to. This made so much sense to me. 
 

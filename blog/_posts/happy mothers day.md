@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 5/14/17
-
-# Happy Mothers Day
+title: Happy Mothers Day
+---
 
 ![][image-1]
 

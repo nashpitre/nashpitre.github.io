@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 4/26/19
-
-# The Little Brick From Bolivia
+title: The Little Brick From Bolivia
+---
 
 ![][image-1]
 

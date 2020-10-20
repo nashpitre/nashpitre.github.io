@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 10/3/18
-
-# Scratched My Eye
+title: Scratched My Eye
+---
 
 https://twitter.com/nashp/status/1047469457218658304
 

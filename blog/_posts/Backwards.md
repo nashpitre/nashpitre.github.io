@@ -1,8 +1,10 @@
+---
+layout: post
 
 Permalink: backwards
 Date: 06/01/19 9am
-
-# Go Backwards
+title: Go Backwards
+---
 
 ## Moving forward isn’t always the best option. Sometimes, go backwards.
 

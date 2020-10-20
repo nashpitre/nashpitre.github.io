@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 05/07/20 08:30 pm
-Permalink: scroll
-
-# Scroll
+permalink: scroll
+title: Scroll
+---
 
 ![][image-1]
 

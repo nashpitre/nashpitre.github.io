@@ -1,8 +1,10 @@
+---
+layout: post
 
 Date: 10/06/17
-Permalink: enough
-
-# What I Have Is Enough
+permalink: enough
+title: What I Have Is Enough
+---
 
 ![][image-1]
 

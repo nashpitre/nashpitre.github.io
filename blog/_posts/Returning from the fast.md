@@ -1,4 +1,7 @@
-# Returning from the fast
+---
+layout: post
+title: Returning from the fast
+---
 
 ![][image-1]
 

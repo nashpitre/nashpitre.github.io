@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 08/17/17
 Permalink: allbirds 
 

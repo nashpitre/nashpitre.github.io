@@ -1,9 +1,11 @@
+---
+layout: post
 
 Date: 03/25/17
 
-Permalink: earn-day
-
-# Sometimes we earn the day, sometimes we sit on the couch
+permalink: earn-day
+title: Sometimes we earn the day, sometimes we sit on the couch
+---
 
 <center>[https://twitter.com/austinkleon/status/767828971752873984](https://twitter.com/austinkleon/status/767828971752873984)</center>
 

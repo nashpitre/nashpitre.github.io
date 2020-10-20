@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 5/13/19
-Permalink: glitch
-
-# There's a glitch in the system
+permalink: glitch
+title: There's a glitch in the system
+---
 
 ![][image-1]
 

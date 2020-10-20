@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 8/31/17
-Permalink: five
-Tagged: Featured
-
-# Five Changes
+permalink: five
+tags: Featured
+title: Five Changes
+---
 
 ![][image-1]
 

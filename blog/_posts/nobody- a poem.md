@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 4/16/17
 
 title: "Nobody: a poem"

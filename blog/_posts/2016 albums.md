@@ -1,8 +1,10 @@
+---
+layout: post
 Date: 12/28/16
 Permalink: 2016-albums
-Tags: Featured
-
-# My 10 Favorite Albums from 2016
+tags: Featured
+title: My 10 Favorite Albums from 2016
+---
 
 ## Preface
 

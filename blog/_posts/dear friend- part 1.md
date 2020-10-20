@@ -1,3 +1,5 @@
+---
+layout: post
 Date: 4/26/19
 
 title: "Dear Friend: Part 1"

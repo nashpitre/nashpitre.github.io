@@ -1,6 +1,8 @@
+---
+layout: post
 Date: 1/25/18
-
-# Healthy Living
+title: Healthy Living
+---
 
 ![][image-1]
 

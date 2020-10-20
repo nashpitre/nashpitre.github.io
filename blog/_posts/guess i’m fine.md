@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 4/29/19
-Permalink: fine
-
-# Guess I’m Fine
+permalink: fine
+title: Guess I’m Fine
+---
 
 ##### Written April 29, 2019
 

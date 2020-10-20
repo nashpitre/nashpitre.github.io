@@ -1,7 +1,9 @@
+---
+layout: post
 Date: 10/26/19
-Permalink: barista
-
-# I’m a Barista
+permalink: barista
+title: I’m a Barista
+---
 
 ![][image-1]
 
