@@ -11,8 +11,8 @@ permalink: videos
 	{% for iFrame in iFrames %}
 		{% if iFrame contains 'src' %}
 			{% if foundiFrame == 0 %}
-				{% assign html = iFrame | split:"/>" | first %}
-				<iframe {{ html }}>
+				{% assign html = iFrame | split:">" | first %}
+				<iframe {{ html }}
 				{% assign foundiFrame = 1 %}
 			{% endif %}
 		{% endif %}
