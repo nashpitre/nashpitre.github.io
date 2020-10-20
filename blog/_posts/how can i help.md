@@ -2,7 +2,8 @@ Date: 8/18/16
 Tags: Featured
 Permalink: how-can-I-help
 
-# How Can I Help: an ongoing thought of never doing enough
+title: "How Can I Help: an ongoing thought of never doing enough"
+---
 
 ![][image-1]
 

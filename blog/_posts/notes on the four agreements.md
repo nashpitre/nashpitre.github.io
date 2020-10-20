@@ -60,6 +60,7 @@ Date: 5/20/19
 
 # 2. The First Agreement: Be Impeccable with Your Word
 
+
 ---- 
 
 ## The power of your words

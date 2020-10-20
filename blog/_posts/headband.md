@@ -1,7 +1,8 @@
 
 Date: 03/14/18
 
-# Introducing Headband: a basketball blog
+title: "Introducing Headband: a basketball blog"
+---
 
 ![][image-1]
 

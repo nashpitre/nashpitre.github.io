@@ -1,6 +1,7 @@
 Date: 4/16/17
 
-# Nobody: a poem
+title: "Nobody: a poem"
+---
 
 Stranger to stranger, the differences are small. Love, pain, anger, and fear, I want it all. Nobody. Capturing a smile, and documenting the hurt. My observations become obsessions, I make it work.
 

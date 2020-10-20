@@ -2,7 +2,8 @@ Date: 9/10/16
 Tags: Featured
 Permalink: grandma
 
-# Carol: how my grandma impacted my life
+title: "Carol: how my grandma impacted my life"
+---
 
 ![][image-1]
 

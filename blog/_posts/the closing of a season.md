@@ -2,7 +2,8 @@
 Permalink: close
 Date: 05/31/19 11:55 pm
 
-# The Closing of a Season: A Story About Running
+title: "The Closing of a Season: A Story About Running"
+---
 
 ![][image-1]
 

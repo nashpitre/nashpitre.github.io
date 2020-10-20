@@ -1,6 +1,7 @@
 Date: 10/1/19
 
-# Poetry: Self-Aware (10/01/19)
+title: "Poetry: Self-Aware (10/01/19)"
+---
 
 ![][image-1]
 

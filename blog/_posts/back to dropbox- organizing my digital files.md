@@ -1,6 +1,7 @@
 Date: 12/7/16
 
-# Back to Dropbox: Organizing My Digital Files
+title: "Back to Dropbox: Organizing My Digital Files"
+---
 
 ![][image-1]
 

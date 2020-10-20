@@ -1,6 +1,7 @@
 Date: 12/10/16
 
-# Pete and Sudi: Rekindling Lost Relationships
+title: "Pete and Sudi: Rekindling Lost Relationships"
+---
 
 ![][image-1]
 

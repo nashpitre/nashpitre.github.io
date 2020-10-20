@@ -18,7 +18,8 @@ October was a month of finding balance. Of being grounded. A lot of resting (eve
 
 ---- 
 
-# Be The Light: Premium Hoodies
+title: "Be The Light: Premium Hoodies"
+---
 
 ![][image-3]
 

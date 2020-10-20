@@ -1,7 +1,8 @@
 
 Date: 10-19-17
 
-# Apple Watch: Fill Your Rings (and build good habits)
+title: "Apple Watch: Fill Your Rings (and build good habits)"
+---
 
 ![][image-1]
 

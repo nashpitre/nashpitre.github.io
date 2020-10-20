@@ -1,7 +1,8 @@
 Date: 08/17/17
 Permalink: allbirds 
 
-# Allbirds Wool Runners: 8 Months Later (Review)
+title: "Allbirds Wool Runners: 8 Months Later (Review)"
+---
 
 ![][image-1]
 

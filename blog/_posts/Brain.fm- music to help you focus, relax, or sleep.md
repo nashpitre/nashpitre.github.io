@@ -2,7 +2,8 @@
 Date: 08/24/19
 Permalink: brain
 
-# Brain.fm: music to help you focus, relax, or sleep
+title: "Brain.fm: music to help you focus, relax, or sleep"
+---
 
 #### A personal movie score for your life.
 

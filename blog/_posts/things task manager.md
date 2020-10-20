@@ -1,6 +1,7 @@
 Date: 12/09/17
 
-# Things: A Task Manager
+title: "Things: A Task Manager"
+---
 
 ![][image-1]
 

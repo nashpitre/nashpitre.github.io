@@ -2,7 +2,8 @@ Date: 6/19/19
 Permalink: nubu
 Page: yes
 
-# Nubu: like Hulu, but for real life
+title: "Nubu: like Hulu, but for real life"
+---
 
 The convenience of Netflix, with real people. Just login and scroll through your options.
 

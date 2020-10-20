@@ -1,5 +1,6 @@
 
-# A Reminder: Go Be Great
+title: "A Reminder: Go Be Great"
+---
 
 ![][image-1]
 

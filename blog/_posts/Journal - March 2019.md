@@ -1,7 +1,8 @@
 
 Date: March 1, 2019
 
-# Journal: March 2019
+title: "Journal: March 2019"
+---
 
 Instead of a new entry on different days throughout the month, how about one running log each month? Let’s try that.
 

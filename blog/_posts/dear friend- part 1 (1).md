@@ -1,6 +1,7 @@
 Date: 4/26/19
 
-# Dear Friend: Part 1
+title: "Dear Friend: Part 1"
+---
 
 #### I have a new idea that I’d like to start doing: writing to a friend, publicly, and anonymously. Here’s the first attempt.
 

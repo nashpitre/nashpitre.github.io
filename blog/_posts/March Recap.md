@@ -44,7 +44,7 @@ I lost my [Uncle Larry][11] a few weeks ago. He had such a good heart. I miss hi
 
 ---- 
 
-# [New Album: need your help][14]
+[New Album: need your help][14]
 
 ![][image-4]
 
@@ -52,7 +52,7 @@ I lost my [Uncle Larry][11] a few weeks ago. He had such a good heart. I miss hi
 
 ---- 
 
-# [MACV-1: My new boots][15]
+[MACV-1: My new boots][15]
 
 ![][image-5]
 

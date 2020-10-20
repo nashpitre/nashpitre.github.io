@@ -1,7 +1,8 @@
 Permalink: ye
 Date: 06/02/18
 
-# Ye: My Thoughts On The Album
+title: "Ye: My Thoughts On The Album"
+---
 
 ![][image-1]
 

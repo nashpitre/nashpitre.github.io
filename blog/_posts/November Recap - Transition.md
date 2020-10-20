@@ -1,7 +1,8 @@
 
 Date: 11/30/18 11:55 pm
 
-# November Recap: A Month of Transition
+title: "November Recap: A Month of Transition"
+---
 
 [Derek Sivers][1]:
 

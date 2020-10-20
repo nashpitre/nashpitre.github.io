@@ -1,6 +1,7 @@
 Date: 2/12/19
 
-# Exodus 14:14
+title: "Exodus 14:14"
+---
 
 ![][image-1]
 

@@ -2,7 +2,8 @@ Date: 12/27/16
 Permalink: removing-clutter
 Tags: Featured
 
-# Why Minimalism: The Act of Removing Clutter
+title: "Why Minimalism: The Act of Removing Clutter"
+---
 
 ![][image-1]
 

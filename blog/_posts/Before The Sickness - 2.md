@@ -2,7 +2,8 @@
 Page: yes
 Permalink: sickness
 
-# Before The Sickness: a dystopian story about our world and a little album
+title: "Before The Sickness: a dystopian story about our world and a little album"
+---
 
 ![][image-1]
 ![][image-2]

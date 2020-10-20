@@ -2,7 +2,8 @@
 Page: yes
 Permlink: focusedwriter
 
-# Notes From The Focused Writer: 3 Tips for a Better Writing Workflow (Webinar)
+title: "Notes From The Focused Writer: 3 Tips for a Better Writing Workflow (Webinar)"
+---
 
 <center><iframe width="100%" height="600" src="https://www.docdroid.net/FMnKuEB/dbrty0jq1rwb6dxwwfqb1594828783-pdf" frameborder="0" allowtransparency allowfullscreen></iframe></center>
 

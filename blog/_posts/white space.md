@@ -1,7 +1,8 @@
 Permalink: white-space
 Date: 12/1/17 00:05
 
-# White Space: A Month of Silence
+title: "White Space: A Month of Silence"
+---
 
 ![][image-1]
 

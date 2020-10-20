@@ -3,7 +3,8 @@ Date: 08/22/17
 Permalink: iPad-apps
 Tags: Featured
 
-# Welcome to iPad: the five apps I download first
+title: "Welcome to iPad: the five apps I download first"
+---
 
 I've been testing iOS 11 lately, and because of that, I've been erasing my iPad every week and starting from scratch. It sounds scary, but I've started to enjoy the process of starting over. It gives me a chance to curate what apps I actually need. Because of this process, I've learned how little I need all the apps that I considered important. What I considered necessities before, looking back now, were distractions, keeping me from the apps that I should be using.
 

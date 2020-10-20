@@ -1,7 +1,8 @@
 Date: 6/29/18
 Permalink: scorpion
 
-# Scorpion: My Thoughts and My Version
+title: "Scorpion: My Thoughts and My Version"
+---
 
 ![][image-1]
 

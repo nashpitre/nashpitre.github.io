@@ -1,7 +1,8 @@
 
 Date: 4/1/19 7:00 am
 
-# Journal: April 2019
+title: "Journal: April 2019"
+---
 
 #### This journal page will be updated frequently throughout the month.
 
@@ -153,7 +154,8 @@ My second errand is complete. I went to target. For fancy coffee. Twizzlers fill
 
 ---- 
 
-# RightNow: 40 Verses to ignite your faith
+
+# RightNow: 40 Verses to ignite your faith"
 
 God doesn’t operate on our timeline
 

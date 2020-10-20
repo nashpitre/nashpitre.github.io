@@ -1,6 +1,7 @@
 Date: 8/26/19
 
-# Neophile: A new word that I just learned, that maybe helps me understand myself better
+title: "Neophile: A new word that I just learned, that maybe helps me understand myself better"
+---
 
 While reading a book, I came across a word that I never heard, and had to look it up. “Neophiliac”. After looking through its Wikipedia, there’s a lot of things here that relate to me. It’s kind of scary.
 
