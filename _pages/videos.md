@@ -4,7 +4,7 @@ title: Videos
 permalink: videos
 ---
 
-{% for post in site.categories.video %}
+{% for post in site.categories.video limit:10 %}
   <div class="video">
   	{% assign foundiFrame = 0 %}
 	{% assign iFrames = post.content | split:"<iframe " %}
