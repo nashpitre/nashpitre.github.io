@@ -4,7 +4,9 @@ permalink: my-zone
 title: "My Zone: Official Music Video"
 ---
 
-<iframe src="https://www.youtube.com/embed/N8zROfVGmKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/N8zROfVGmKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 January 31st, 2014. I spent the entire day driving back from Texas. I had to drop my dad off, who was turning himself in for a 9 year sentence. I also went see my grandmother. She had a heart attack and wasn't doing too good (she's still in the hospital).
 

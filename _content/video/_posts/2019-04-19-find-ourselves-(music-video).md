@@ -3,7 +3,9 @@ layout: post
 title: Find Ourselves (Music Video)
 ---
 
-<iframe src="https://streamable.com/s/a23t5/ycsfmn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe>
+<div class="video">
+  <iframe src="https://streamable.com/s/a23t5/ycsfmn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe>
+</div>
 
 [Facebook post][1]:
 
