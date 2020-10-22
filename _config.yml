@@ -15,7 +15,6 @@ plugins:
 # Optimize Jekyll
 include:
 - _pages
-- _content
 
 exclude:
   - .editorconfig
