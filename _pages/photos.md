@@ -4,7 +4,7 @@ title: Photos
 permalink: photos
 ---
 
-{% assign postsByYear = site.categories.photos | group\_by\_exp: "post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.categories.photos | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for yearS in postsByYear %}
 <h2>{{ yearS.name }}</h2>
   <div class="grid">
