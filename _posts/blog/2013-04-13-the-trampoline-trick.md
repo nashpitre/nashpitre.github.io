@@ -3,7 +3,7 @@ permalink: trampoline
 title: The Trampoline Trick
 ---
 
-![][image-1]
+![](image-1)
 
 He jumped up and down on the trampoline, excited to be outside with his big brother. His cheeks were red and filled with joy from running in circles. He was wearing a yellow hoodie with stains from the smoothie he was drinking an hour ago. His shoes were navy blue converse that had scuffs on the tips. He wanted to show me his tricks.
 

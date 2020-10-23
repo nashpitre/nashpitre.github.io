@@ -3,7 +3,7 @@ permalink: christmas-brayden
 title: Merry Christmas, Brayden
 ---
 
-![][image-1]
+![](image-1)
 
 This kid is full of life and is always curious and adventurous. Legos, remote helicopters, four wheelers: he does all of these things like a six year old, but he’s only three. I love how clear his sentences are now—I can have great conversations with him that are very entertaining. It’s always a pleasure to hang out with him.
 

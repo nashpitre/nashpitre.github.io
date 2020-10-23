@@ -3,7 +3,7 @@ permalink: nevaeh-ipad
 title: Giving Nevaeh My iPad for Christmas
 ---
 
-![][image-1]
+![](image-1)
 
 I decided to give Nevaeh, my 8 year old sister, my iPad mini for Christmas. She told mom that she wants her own. Mom already told me she isn’t getting her one, she said she already spent enough on her for Christmas.
 
