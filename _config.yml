@@ -15,7 +15,7 @@ plugins:
 # Optimize Jekyll
 include:
 - _pages
-- _content
+- _posts
 
 exclude:
   - .editorconfig
@@ -42,3 +42,40 @@ author:
 
 # Custom vars
 version: 3.0.0
+
+defaults:
+  -
+    scope:
+      path: "_pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "_posts/blog"
+    values:
+      categories: "blog"
+  -
+    scope:
+      path: "_posts/music"
+    values:
+      categories: "music"
+  -
+    scope:
+      path: "_posts/photos"
+    values:
+      categories: "photos"
+  -
+    scope:
+      path: "_posts/shop"
+    values:
+      categories: "shop"
+  -
+    scope:
+      path: "_posts/video"
+    values:
+      categories: "video"
