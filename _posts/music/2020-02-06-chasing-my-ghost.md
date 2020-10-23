@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Chasing My Ghost (LOOP4)
 permalink: ghost
 tags: albums

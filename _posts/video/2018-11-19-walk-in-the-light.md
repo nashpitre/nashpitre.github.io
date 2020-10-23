@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Walk In The Light
 ---
 

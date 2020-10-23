@@ -1,5 +1,4 @@
 ---
-layout: post
 title: NASHP - When I’m Gone
 ---
 

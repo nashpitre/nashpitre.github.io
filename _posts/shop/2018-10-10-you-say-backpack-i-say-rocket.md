@@ -1,5 +1,4 @@
 ---
-layout: post
 title: You say backpack. I say rocket.
 ---
 

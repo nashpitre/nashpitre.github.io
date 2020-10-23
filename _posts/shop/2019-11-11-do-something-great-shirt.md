@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Do Something Great Shirt
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A Day In The Life
 ---
 

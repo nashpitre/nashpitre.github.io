@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Guess I’m Fine (Music Video)
 ---
 

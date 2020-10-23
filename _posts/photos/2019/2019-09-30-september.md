@@ -1,5 +1,4 @@
 ---
-layout: post
 title: September
 permalink: september19
 ---

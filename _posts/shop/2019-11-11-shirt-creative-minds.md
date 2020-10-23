@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Creative Minds Shirt
 ---
 

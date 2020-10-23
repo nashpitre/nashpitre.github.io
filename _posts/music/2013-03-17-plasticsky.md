@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PlasticSky
 permalink: plasticsky
 tags: albums

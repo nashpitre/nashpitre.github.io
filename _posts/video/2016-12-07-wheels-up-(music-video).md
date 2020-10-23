@@ -1,5 +1,4 @@
 ---
-layout: post
 title: NASHP - Wheels Up (Music Video)
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sky View (Music Video)
 ---
 

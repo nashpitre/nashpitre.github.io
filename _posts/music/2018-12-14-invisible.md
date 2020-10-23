@@ -1,5 +1,4 @@
 ---
-layout: post
 permalink: invisible
 tags: albums
 title: Invisible Man

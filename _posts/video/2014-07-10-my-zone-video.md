@@ -1,5 +1,4 @@
 ---
-layout: post
 permalink: my-zone
 title: "My Zone: Official Music Video"
 ---

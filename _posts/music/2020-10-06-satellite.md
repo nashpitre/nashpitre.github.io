@@ -1,5 +1,4 @@
 ---
-layout: post
 title: When The Satellite Fell
 permalink: satellite
 tags: albums

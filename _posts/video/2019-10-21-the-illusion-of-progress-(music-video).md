@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Illusion of Progress (Music Video)"
 ---
 

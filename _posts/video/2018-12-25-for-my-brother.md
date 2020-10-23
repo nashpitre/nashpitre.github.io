@@ -1,5 +1,4 @@
 ---
-layout: post
 title: For My Brother (Vlogs)
 ---
 

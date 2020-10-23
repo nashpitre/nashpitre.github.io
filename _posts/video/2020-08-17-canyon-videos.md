@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Grand Canyon Road Trip"
 permalink: canyon
 ---
