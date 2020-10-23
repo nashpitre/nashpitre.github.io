@@ -6,7 +6,7 @@ permalink: projects
 
 ![][image-1]
 
-**Table of Contents*
+**Table of Contents**
 
 - [Blog](/blog)
 - [Journal](/journal)
