@@ -78,3 +78,8 @@ defaults:
       path: "_posts/video"
     values:
       categories: "video"
+  -
+    scope:
+      path: "_posts/journal"
+    values:
+      categories: "journal"

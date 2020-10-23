@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Blog
 permalink: blog
 ---
-
-# Blog
 
 {% assign postsByYearMonth = site.categories.blog | group_by_exp: "post", "post.date | date: '%B, %Y'" %}
 {% for yearMonth in postsByYearMonth %}
