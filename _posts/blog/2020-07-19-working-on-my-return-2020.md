@@ -1,6 +1,5 @@
 ---
 permalink: return-2020
-page: yes
 title: Working on my return
 ---
 

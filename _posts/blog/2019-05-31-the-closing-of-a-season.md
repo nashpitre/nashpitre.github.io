@@ -1,6 +1,5 @@
 ---
 permalink: close
-
 title: "The Closing of a Season: A Story About Running"
 ---
 

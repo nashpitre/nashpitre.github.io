@@ -1,7 +1,6 @@
 ---
 permalink: removing-clutter
-Tags: Featured
-
+tags: Featured
 title: "Why Minimalism: The Act of Removing Clutter"
 ---
 

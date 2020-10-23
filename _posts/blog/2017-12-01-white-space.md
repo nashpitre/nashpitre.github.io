@@ -1,6 +1,5 @@
 ---
 permalink: white-space
-
 title: "White Space: A Month of Silence"
 ---
 

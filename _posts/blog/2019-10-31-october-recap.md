@@ -16,7 +16,6 @@ October was a month of finding balance. Of being grounded. A lot of resting (eve
 ### Here’s [25 pictures][1] taken with the new iPhone 11 Pro
 
 ---- 
-
 title: "Be The Light: Premium Hoodies"
 ---
 

@@ -1,7 +1,6 @@
 ---
 permalink: iPad-apps
-Tags: Featured
-
+tags: Featured
 title: "Welcome to iPad: the five apps I download first"
 ---
 

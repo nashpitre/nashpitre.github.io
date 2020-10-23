@@ -1,5 +1,5 @@
 ---
-Tags: Featured
+tags: Featured
 title: Good Morning, 5am
 ---
 

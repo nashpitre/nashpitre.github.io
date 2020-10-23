@@ -1,5 +1,5 @@
 ---
-Tags: Featured
+tags: Featured
 permalink: writing-archives-friends
 title: Writing, Archives, Friends
 ---

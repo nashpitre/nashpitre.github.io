@@ -1,6 +1,5 @@
 ---
 permalink: 092820
-page: yes
 title: Monday — September 28, 2020
 ---
 

@@ -1,6 +1,5 @@
 ---
 permalink: allbirds 
-
 title: "Allbirds Wool Runners: 8 Months Later (Review)"
 ---
 
