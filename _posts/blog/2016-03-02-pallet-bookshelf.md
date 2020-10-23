@@ -1,6 +1,5 @@
 ---
 permalink: Pallet Bookshelf
-tags: Featured
 title: Pallet Bookshelf
 ---
 

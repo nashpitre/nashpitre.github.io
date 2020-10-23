@@ -1,5 +1,4 @@
 ---
-tags: Featured
 title: A Simple Christmas Gift To And From My 6 Year-Old Brother
 ---
 

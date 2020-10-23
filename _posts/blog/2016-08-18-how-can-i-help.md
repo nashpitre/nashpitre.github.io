@@ -1,5 +1,4 @@
 ---
-tags: Featured
 permalink: how-can-I-help
 title: "How Can I Help: an ongoing thought of never doing enough"
 ---

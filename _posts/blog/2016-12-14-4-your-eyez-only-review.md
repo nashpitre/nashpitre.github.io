@@ -1,6 +1,5 @@
 ---
 permalink: eyez
-tags: Featured
 title: J.Cole - 4 Your Eyez Only (Review)
 ---
 

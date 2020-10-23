@@ -1,6 +1,5 @@
 ---
 permalink: where-is-she
-tags: Featured
 title: Where is She?
 ---
 

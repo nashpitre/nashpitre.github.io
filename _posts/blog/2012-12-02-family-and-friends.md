@@ -1,6 +1,5 @@
 ---
 permalink: family-friends
-tags: Featured
 title: Family and Friends
 ---
 
