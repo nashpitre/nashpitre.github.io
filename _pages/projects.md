@@ -8,6 +8,7 @@ permalink: projects
 
 ## Table of contents:
 
+- [Blog](/blog)
 - [Music][1]
 - [Photos][2]
 - [Shop][3]
