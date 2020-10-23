@@ -101,8 +101,8 @@ A month [with 100 photos][1] is a good month. I also created two music videos: [
 [Read more.][31]
 
 ---- 
-title: "[Dear Friend: Part 1][32]"
----
+
+# [Dear Friend: Part 1][32]
 
 > Dear friend,
 > 
