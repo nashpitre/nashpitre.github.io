@@ -28,6 +28,7 @@ permalink: music
 
 ## Discography
 
+- 2020 - [When The Satellite Fell](satellite)
 - 2020 - [Chasing My Ghost][1]
 - 2020 - [The Illusion of Progress][2]
 - 2019 - [How We See The World][3]
