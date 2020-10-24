@@ -4,9 +4,11 @@ title: Journal
 permalink: journal
 ---
 
-{% for post in site.categories.journal %}
-  <div class="journal">
-    <strong><time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time></strong>
-    {{ content }}
-  </div>
-{% endfor %}
+<div class="posts">
+  {% for post in site.categories.journal %}
+  <article class="post">
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
