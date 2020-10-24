@@ -1,7 +1,7 @@
 # Setup
 label: nashp.com
 title: nash
-url: https://nashpitre.github.io
+url: https://nashp.com
 paginate: 10
 baseurl: ""
 permalink: /:slug
