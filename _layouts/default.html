@@ -21,7 +21,11 @@
       </main>
 
       <footer class="footer">
-<iframe src="https://nashp.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+        <h3>
+           {% for link in site.data.navigation.foot %}
+           <small><a href="{{ link.url }}">{{ link.title }}</a></small>
+           {% endfor %}
+         </h3>
       </footer>
     </div>
 
