@@ -118,5 +118,3 @@ Welcome to the new, much cleaner version of my site. This has been my latest pro
 	  </div>
   {% endfor %}
 </div>
-
-<hr>
