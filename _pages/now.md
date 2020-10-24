@@ -25,7 +25,7 @@ Welcome to the new, much cleaner version of my site. This has been my latest pro
 <div class="posts">
   <ul>
   {% for post in site.categories.journal | limit: 3 %}
-  	<li>
+  	<li class="journal">
     <strong><time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A, %B %d, %Y" }}</time></strong>
     {{ post.content }}
     </li>
