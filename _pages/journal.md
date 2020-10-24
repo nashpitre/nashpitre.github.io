@@ -7,7 +7,7 @@ permalink: journal
 <div class="posts">
   {% for post in site.categories.journal %}
   <article class="post">
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    <strong><time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A, %B %d, %y" }}</time></strong>
     {{ post.content }}
   </article>
   {% endfor %}
