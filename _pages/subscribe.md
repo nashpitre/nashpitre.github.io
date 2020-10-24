@@ -15,7 +15,7 @@ Two ways to subscribe:
 
 It's simple: if you write your email address here, my words will reach you again.
 
-<iframe src="https://nashp.substack.com/embed" width="480" height="320" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://nashp.substack.com/embed" width="100%" height="320" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ----
 
