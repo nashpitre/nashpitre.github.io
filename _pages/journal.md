@@ -5,6 +5,6 @@ permalink: journal
 ---
 
 {% for posts in site.categories.journal %}
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
   {{ content }}
 {% endfor %}
