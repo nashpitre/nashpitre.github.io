@@ -24,10 +24,10 @@ Welcome to the new, much cleaner version of my site. This has been my latest pro
 ## [Journal](/journal)
 <div class="posts">
   {% for post in site.categories.journal | limit: 3 %}
-    <p>
-      <strong><time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A, %B %d, %Y" }}</time></strong>
-      {{ post.content }}
-    </p>
+  	<div>
+    <strong><time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A, %B %d, %Y" }}</time></strong>
+    {{ post.content }}
+    </div>
   {% endfor %}
 </div>
 
@@ -91,6 +91,7 @@ Welcome to the new, much cleaner version of my site. This has been my latest pro
 	        	{% endif %}
 	    	{% endif %}
 	  	{% endfor %}
+		</a>
 	  </div>
   {% endfor %}
 </div>
