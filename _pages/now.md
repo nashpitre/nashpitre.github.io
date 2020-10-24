@@ -28,7 +28,7 @@ Welcome to the new, much cleaner version of my site. This has been my latest pro
 
 ## [Photos](/photos)
 <div class="grid">
-  {% for post in site.categories.photos reversed | limit: 4 %}
+  {% for post in site.categories.photos | limit: 4 %}
 	  <div class="gridBox">
 	  	<a href="{{ post.url }}">
 	  	{% assign foundImage = 0 %}
