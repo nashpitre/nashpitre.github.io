@@ -25,6 +25,7 @@ Welcome to the new, much cleaner version of my site. This has been my latest pro
   {% endfor %}
     </ul>
 </div>
+<br>
 
 ## [Photos](/photos)
 <div class="grid">
