@@ -4,7 +4,13 @@ title: Choose what you pay
 
 ![][image-1]
 
-Look up. At the top of the site. Right under my name. You’ll see a **Choose what you pay** box that lets you subscribe monthly to helping the site raise money and remain successful (This also comes with cool perks like a free copy of my first book, Alchemy One).
+This is my **Choose what you pay** box. It allows you to subscribe monthly, helping the site raise money and remain succesful. This is a huge upgrade to the previous way memberships were handled: it’s no longer a set price that you have to follow. Now, if you’d like to contribute $20 a month...or just $1, that choice is completely yours. Whatever fits your budget and the amount you think I deserve. I continue to focus on making this site my full-time job, and this new feature is aligned with that goal in mind. I always say not to become a member or support this site unless you feel like I’m bringing in enough value for you to do so. I want to earn your support.
+
+<form class="contribute" action="https://nashp.memberful.com/checkout" method="get">
+  <input type="hidden" name="plan" value="53002" />
+  <input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01" />
+  <input type="submit" class="btn" value="Contribute now" />
+</form>
 
 This is a huge upgrade to the previous way memberships were handled: it’s no longer a set price that you have to follow. Now, if you’d like to contribute $20 a month...or just $1, that choice is completely yours. Whatever fits your budget and the amount you think I deserve. I continue to focus on making this site my full-time job, and this new feature is aligned with that goal in mind. I always say not to become a member or support this site unless you feel like I’m bringing in enough value for you to do so. **I want to earn your support.**
 
