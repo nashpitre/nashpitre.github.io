@@ -20,4 +20,4 @@ This has been a very quiet year for me. Even though I released three new albumsâ
   </article>
   {% endfor %}
 </div>
-[Read more of my daily journal](link journal)
+[Read more of my daily journal](/journal)
