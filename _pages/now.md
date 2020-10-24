@@ -84,7 +84,7 @@ Welcome to the new, much cleaner version of my site. This has been my latest pro
 	        	{% endif %}
 	    	{% endif %}
 	  	{% endfor %}
-	  	<span class="boxText">{{ post.title }}</span></a>
+	  	</a>
 	  </div>
   {% endfor %}
 </div>
