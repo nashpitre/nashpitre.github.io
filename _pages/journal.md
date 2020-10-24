@@ -4,12 +4,7 @@ title: Journal
 permalink: journal
 ---
 
-{% assign postsByYearMonth = site.categories.journal | group_by_exp: "post", "post.date | date: '%B, %Y'" %}
-{% for yearMonth in postsByYearMonth %}
-  <strong>{{ yearMonth.name }}</strong>
-  <ul>
-    {% for post in yearMonth.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% for posts in site.categories.journal %}
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+  {{ content }}
 {% endfor %}
