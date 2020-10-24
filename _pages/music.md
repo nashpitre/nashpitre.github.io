@@ -4,12 +4,6 @@ title: music
 permalink: music
 ---
 
-![][image-1]
-
----- 
-
-## Featured Albums
-
 <div class="grid">
 {% for post in site.tags["albums"] %}
   <div class="gridBox">
