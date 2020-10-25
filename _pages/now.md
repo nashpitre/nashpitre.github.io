@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Now
-permalink: now
+permalink: /index.html
 ---
 
 ## [Now](/)
