@@ -9,10 +9,6 @@
       <header class="masthead">
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small> / </small>
-          {% for link in site.data.navigation.main %}
-          <small><a href="{{ link.url }}">{{ link.title }}</a></small>
-          {% endfor %}
         </h3>
       </header>
 
@@ -22,17 +18,17 @@
 
 <hr>
  
-        <i>If you found some value here, consider supporting my work by buying me a coffee.</i>
-        <br><br>
+<i>If you found some value here, consider supporting my work by buying me a coffee.</i>
+<br><br>
         
-        <center><form class="contribute" action="https://nashp.memberful.com/checkout" method="get">
+<form class="contribute" action="https://nashp.memberful.com/checkout" method="get">
   <input type="hidden" name="plan" value="53002" />
   <input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01" />
   <input type="submit" class="btn" value="Contribute now" />
-</form></center>
+</form>
 
- <br><br>
-    </div>
+<br><br>
+</div>
 
     {% if site.ga_analytics %}
      <script>
