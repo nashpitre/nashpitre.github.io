@@ -17,11 +17,6 @@
   margin: 0;
 }
 
-button {
-  appearance: none;
-  -webkit-appearance: none;
-}
-
 input, select {
   padding: 12px 20px;
   margin: 8px 0;
@@ -32,6 +27,8 @@ input, select {
 }
 
 input[type=submit] {
+  appearance: none;
+  -webkit-appearance: none;
   background-color: var(--nash-blue);
   color: white;
   padding: 12.5px 20px;
