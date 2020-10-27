@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Subscribe
-permalink: subscribe
+permalink: subscribe_other
 ---
 
 Two ways to subscribe: 
