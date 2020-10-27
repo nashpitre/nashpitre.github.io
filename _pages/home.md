@@ -76,7 +76,7 @@ Welcome to the new, much cleaner version of my site. This has been my latest pro
 
 ## [Music](/music)
 <div class="grid">
-  {% for post in site.tags["albums"] reversed | limit: 4 %}
+  {% for post in site.tags["albums"] | limit: 4 %}
 	  <div class="gridBox">
 	  	<a href="{{ post.url }}">
 	  	{% assign foundImage = 0 %}
@@ -99,7 +99,7 @@ Welcome to the new, much cleaner version of my site. This has been my latest pro
 
 ## [Shop](/shop)
 <div class="grid">
-  {% for post in site.categories.shop reversed | limit: 4 %}
+  {% for post in site.categories.shop | limit: 4 %}
 	  <div class="gridBox">
 	  	<a href="{{ post.url }}">
 	  	{% assign foundImage = 0 %}
