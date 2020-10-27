@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "projects"
-    url: /
+  - title: "music"
+    url: /music
+  - title: "shop"
+    url: /shop
 foot:
   - title: "subscribe"
     url: /subscribe
