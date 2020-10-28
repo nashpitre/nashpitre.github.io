@@ -1,9 +1,17 @@
 # main links
 main:
+  - title: "blog"
+    url: /blog
+  - title: "journal"
+    url: /journal
   - title: "music"
     url: /music
+  - title: "photos"
+    url: /photos
   - title: "shop"
     url: /shop
+  - title: "videos"
+    url: /videos
 foot:
   - title: "subscribe"
     url: /subscribe
