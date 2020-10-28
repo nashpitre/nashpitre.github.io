@@ -2,6 +2,8 @@
 main:
   - title: "music"
     url: /music
+  - title: "photos"
+    url: /photos
 foot:
   - title: "subscribe"
     url: /subscribe
