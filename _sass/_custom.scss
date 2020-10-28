@@ -4,34 +4,12 @@
 // Count Up
 
 .countup {
-	text-align: center;
-	font-size: 0.65rem;
-	font-weight: bold;
-	margin-bottom: 1rem;
-	margin-top: -1.5rem;
-	text-transform: uppercase;
 }
 .countup .timeel {
-	display: inline-block;
-	background: #10404E;
-	margin: 0;
-	color: white;
 	min-width: 2.75rem;
-	border-radius: 10px 0 0 10px;
 }
- .countup span[class*="raw"] {
-	border-radius: 0 10px 10px 0;
-	margin-left: 0;
-	background: #479db1;
-	text-align: left;
+.countup span[class*="raw"] {
 	width: 5.8rem;
-	padding-left: 0.5rem;
-}
-@media (prefers-color-scheme: dark) {
-    .countup .timeel {
-      color: #222;
-      background: #F2F2F2;
-    }
 }
 
 // Faces
