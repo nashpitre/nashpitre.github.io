@@ -1,13 +1,21 @@
 // Custom CSS Elements
 //
 
+// CountUp
+small {
+  font-weight: 600;
+  float: left;
+  margin-top: 0.5rem;
+  opacity: 1;
+}
+
 // Faces
 .faceit {
      position: relative;
      margin: auto;
-     width: 6rem;
+     width: 3rem;
      margin-top: 2rem;
-     margin-bottom: 20px;
+     padding-bottom: 3rem;
 }
 .faceit img {
      position: absolute;
