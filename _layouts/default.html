@@ -9,13 +9,15 @@
       <header class="masthead">
         <h2 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small>{% include countup.html %}</small>
+          {% include countup.html %}
           <!-- {% for link in site.data.navigation.main %}
           <small> / </small>
           <small><a href="{{ link.url }}">{{ link.title }}</a></small>
           {% endfor %}-->
         </h2>
+        <hr>
       </header>
+
 
       <main>
         {{ content }}
