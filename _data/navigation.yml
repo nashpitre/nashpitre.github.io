@@ -4,6 +4,8 @@ main:
     url: /music
   - title: "photos"
     url: /photos
+  - title: "shop"
+    url: /shop
 foot:
   - title: "subscribe"
     url: /subscribe
