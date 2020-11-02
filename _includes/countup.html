@@ -21,7 +21,7 @@ function countUpFromTime(countFrom, id) {
   var days = (timeDifference / secondsInADay);
   var years = ((days * 4) / 1461);
 
-  raw = ((timeDifference / (secondsInADay) * 4) / 1461 * 1).toFixed(6);
+  raw = ((timeDifference / (secondsInADay) * 4) / 1461 * 1).toFixed(9);
 
   var idEl = document.getElementById(id);
   idEl.getElementsByClassName('raw')[0].innerHTML = raw;
