@@ -1,11 +1,7 @@
 # main links
 main:
-  - title: "music"
-    url: /music
-  - title: "photos"
-    url: /photos
-  - title: "shop"
-    url: /shop
+  - title: ""
+    url: /
 foot:
-  - title: "subscribe"
-    url: /subscribe
+  - title: ""
+    url: /
