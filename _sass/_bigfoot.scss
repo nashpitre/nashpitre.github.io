@@ -38,10 +38,6 @@ $popover-scroll-indicator-opacity:      0.1 !default;                           
 $popover-initial-transform-state:       scale(0.1) translateZ(0) !default;       // The inital transform state for the popover
 $popover-active-transform-state:        scale(1) translateZ(0) !default;         // The transform state for the popover once it is fully activated
 
-@media (prefers-color-scheme: dark) {
-  $popover-color-background:         rgb(134, 142, 150);
-}
-
 // OPTIONAL ELEMENTS
 $popover-include-tooltip:               true !default;                           // Adds a tooltip pointing to the footnote button
 $popover-include-scroll-indicator:      true !default;                           // Adds an elipsis at the bottom of scrollable popovers
