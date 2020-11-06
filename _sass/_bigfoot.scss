@@ -620,6 +620,10 @@ $button-transition-properties:      background-color !default;
 }
 
 @media (prefers-color-scheme: dark) {
+  background-image: linear-gradient(to bottom, $popover-color-background-dark $popover-scrolly-fade-gradient-start-location, transparentize($popover-color-background-dark, 1) 100%);
+  background-image: linear-gradient(to bottom, $popover-color-background-dark $popover-scrolly-fade-gradient-start-location, transparentize($popover-color-background-dark, 1) 100%);
+  background-image: linear-gradient(to top, $popover-color-background-dark $popover-scrolly-fade-gradient-start-location, transparentize($popover-color-background-dark, 1) 100%);
+  background-image: linear-gradient(to top, $popover-color-background-dark $popover-scrolly-fade-gradient-start-location, transparentize($popover-color-background-dark, 1) 100%);
   background: $popover-color-background-dark;
   background-color: $popover-color-background-dark;
 }
