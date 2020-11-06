@@ -65,6 +65,6 @@ input[type=submit] {
 
 @media (prefers-color-scheme: dark) {
   .bigfoot-footnote__content {
-    background: rgb(134,142,150); 
+    background: var(---gray-600); 
   }
 }
