@@ -62,3 +62,9 @@ input[type=submit] {
   border-radius: 4px;
   cursor: pointer;
 }
+
+@media (prefers-color-scheme: dark) {
+  .bigfoot-footnote__content {
+    background: rgb(134,142,150); 
+  }
+}
