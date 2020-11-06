@@ -620,5 +620,5 @@ $button-transition-properties:      background-color !default;
 }
 
 @media (prefers-color-scheme: dark) {
-  background-color: $popover-color-background-dark;
+  background: $popover-color-background-dark;
 }
