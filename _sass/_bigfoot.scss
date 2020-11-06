@@ -24,7 +24,7 @@ $popover-width:                         22em !default;                          
 $popover-max-width:                     90% !default;                            // Best as a % to accommodate smaller viewports
 $popover-max-height:                    15em !default;                           // Maximum size of the content area
 $popover-color-background:              rgb(250, 250, 250) !default;             // Color of the popover background
-$popover-color-background-dark:         rgb(34, 34, 34) !default;                // Color of the popover background in dark mode
+$popover-color-background-dark:         rgb(34, 34, 34);                		 // Color of the popover background in dark mode
 $popover-border-radius:                 0.5em !default;                          // Radius of the corners of the popover
 $popover-border:                        1px solid rgb(195, 195, 195) !default;   // Border of the popover/ tooltip
 $popover-inactive-opacity:              0 !default;                              // Opacity of the popover when instantiated/ deactivating
@@ -620,5 +620,5 @@ $button-transition-properties:      background-color !default;
 }
 
 @media (prefers-color-scheme: dark) {
-  background: $popover-content-color-background-dark;
+  background-color: $popover-color-background-dark;
 }
