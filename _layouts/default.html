@@ -9,7 +9,8 @@
       <header class="masthead">
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small> / {% include countup.html %}</small>
+          <small> / </small>
+          {% include about.html %}
           <!--<span class="header-nav">
 			{% for link in site.data.navigation.main %}
 			  <small><a href="{{ link.url }}">{{ link.title }}</a></small>
@@ -27,6 +28,8 @@
         {{ content }}
       </main>
 
+{% include footer.html %}
+
 <hr>
 
 <center> 
@@ -39,8 +42,6 @@
   <input type="submit" class="btn" value="Contribute now" />
 </form>
 </center>
-
-{% include face.html %}
 
 <br>
 
