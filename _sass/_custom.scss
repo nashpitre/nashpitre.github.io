@@ -1,6 +1,11 @@
 // Custom CSS Elements
 //
 
+//Grayscale Homepage
+.grayscale{
+  filter: grayscale(80%);
+}
+
 // Navigation Changes
 .header-nav {
   float: right;
@@ -26,6 +31,8 @@
 .kindle {
 
 }
+
+
 
 // Videos
 .video {
