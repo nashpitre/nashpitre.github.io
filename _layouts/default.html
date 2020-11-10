@@ -13,11 +13,11 @@
           <span class="header-nav">
 			{% for link in site.data.navigation.main %}
 			  <small><a href="{{ link.url }}">{{ link.title }}</a></small>
-		      <small> / </small>
+			  {% if forloop.last %}
+			    {% else %}
+			      <small> / </small>
+			  {% endif %}
 			{% endfor %}
-			<sup id="fnref:about">
-  			  <a href="#fn:about" rel="footnote">about</a>
-			</sup>
           </span>
         </h3>
       </header>
