@@ -10,16 +10,15 @@
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           <small> / </small>
-          {% include about.html %}
-          <!--<span class="header-nav">
+          <span class="header-nav">
 			{% for link in site.data.navigation.main %}
 			  <small><a href="{{ link.url }}">{{ link.title }}</a></small>
-			  {% if forloop.last %}
-			    {% else %}
-			      <small> / </small>
-			  {% endif %}
+		      <small> / </small>
 			{% endfor %}
-          </span>-->
+			<sup id="fnref:about">
+  			  <a href="#fn:about" rel="footnote">about</a>
+			</sup>
+          </span>
         </h3>
       </header>
 
@@ -42,6 +41,20 @@
 </center>
 
 <br>
+
+<div class="footnotes">
+  <ol>
+    <li class="footnote" id="fn:about">
+      <center>
+        <small>
+        {% include countup.html %}<br><br>
+		[Insert a little blurb about myself, the counter, and the site history here]<br>
+		{% include face.html %}
+		</small>
+	  </center>
+    </li>
+  </ol>
+</div>
 
 </div>
 
