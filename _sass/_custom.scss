@@ -4,6 +4,14 @@
 //Grayscale Homepage
 .grayscale{
   filter: grayscale(50%);
+  
+  img {
+    filter: grayscale(100%);
+  }
+  
+  iframe  {
+    filter: grayscale(100%);
+  }
 }
 
 // Navigation Changes
