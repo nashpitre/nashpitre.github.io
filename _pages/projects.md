@@ -20,6 +20,8 @@ permalink: projects
 
 **[Books][4]** — I released a poetry book titled [For My Brother][brother] that captured many stories, from a dream, to a testimony, messages from others, to all the lyrics from the four songs that made the album.
 
+----
+
 ## Previous
 
 [Place holder text until previous years are added.]
