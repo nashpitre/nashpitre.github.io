@@ -30,6 +30,9 @@ permalink: projects
 [2]:	photos
 [3]:videos
 [4]:books
+[7]:satellite
+[8]:ghost
+[9]:progress
 [brother]:a1
 [basketball]:vlog-ocotober-19-2020
 [c1]:https://nashp.com/vlog-july-27-2020
