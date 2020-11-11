@@ -6,7 +6,7 @@ permalink: projects
 
 ![][image-1]
 
-*A breakdown of each project that was created that year.*
+*A breakdown of the projects created each year.*
 
 ----
 
