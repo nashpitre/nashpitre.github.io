@@ -1,7 +1,7 @@
-
+---
+Title: For My Brother: Alchemy One
 Permalink: a1
-
-# For My Brother: Alchemy One
+---
 
 ![][image-1]
 

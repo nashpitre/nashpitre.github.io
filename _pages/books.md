@@ -1,10 +1,9 @@
-Date: 6/11/19
-Menu: no
+---
+Title: books
 Permalink: books
+---
 
-# Upcoming books
-
-![][image-1]
+![](https://i.imgur.com/ymenhnC.png)
 
 ### I've been working on some books for over a decade now. One day I'll release them.
 
@@ -22,5 +21,3 @@ Permalink: books
 	- Good Luck, Alex
 	- The Adventures of Lander
 	- Little Stories For Kids
-
-[image-1]:	https://i.imgur.com/ymenhnC.png

@@ -11,8 +11,6 @@ Take action on these thoughts. Don’t let them just sit in your mind. That’s 
 
 Just go. Stop planning. Start doing. Stop waiting for life to happen, and instead, make it happen. You’re gonna fall. You might even fail. Who cares. People are too busy with their own lives to notice all the details of your evolution. Take these moments and grow more than you have in years. And through all of this uncertainty, there will be small wins, and evenutally, you’ll find yourself doing something incredible.
 
----- 
-
 Now, back to this big project I’m working on.
 
 [image-1]:	https://imgur.com/Xe0Klji.jpg

@@ -9,5 +9,3 @@ It’s all a build-up. One moment to the next. Momentum, but in the opposite dir
 Bad seasons don’t notify and prepare you when they’re on the way, which makes them hard to withstand. It starts as just a bad moment, and then a bad day, bad week—and before we realize that the funk has been around a little longer than expected, it’s too late: we’re waiting on that season to pass.
 
 With that being said: that season is over. Today is a beautiful day. The cough is gone. The writing is back. Leon Bridges is playing through the apartment. And I just made a strawberry smoothie.
-
-🍓 

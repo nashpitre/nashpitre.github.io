@@ -1,10 +1,10 @@
-Date: 8/12/17
+---
+Title: help
 Permalink: help
 Menu: no
+---
 
-# Consulting
-
-![][image-1]
+![](https://i.imgur.com/lPXvuPL.jpg)
 
 ---- 
 
@@ -17,7 +17,7 @@ Menu: no
 - **Apple Consulting**: iPhone, iPad, Mac, Password management, iCloud, Storage management, Backing up photos, etc.
 
 
-#### [nashp@me.com][1]
+#### [nashp@me.com](mailto:nashp@me.com)
 
 ---- 
 
@@ -29,7 +29,3 @@ I want to help you become better. Whether it’s a project you’re working on, 
 <div class="calendly-inline-widget" data-url="https://calendly.com/nashpitre/help" style="min-width:320px;height:580px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
 <!-- Calendly inline widget end -->
-
-[1]:	mailto:nashp@me.com
-
-[image-1]:	https://i.imgur.com/lPXvuPL.jpg
