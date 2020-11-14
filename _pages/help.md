@@ -1,7 +1,6 @@
 ---
-Title: help
-Permalink: help
-Menu: no
+title: help
+permalink: help
 ---
 
 ![](https://i.imgur.com/lPXvuPL.jpg)

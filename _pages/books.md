@@ -1,6 +1,6 @@
 ---
-Title: books
-Permalink: books
+title: books
+permalink: books
 ---
 
 ![](https://i.imgur.com/ymenhnC.png)
