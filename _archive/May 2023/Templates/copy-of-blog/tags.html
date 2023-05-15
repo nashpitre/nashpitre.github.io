@@ -1,0 +1,26 @@
+<!DOCTYPE html><html>
+  {{> head}}
+  <body>
+    {{> header}}
+    <div class="container">
+      <div class="main">
+        
+  <div class="floatlist">
+  
+  <h2>Tags</h2>
+        
+            {{#allTags}}
+              <ul><li><a class=menu href="/tagged/{{#encodeURIComponent}}{{name}}{{/encodeURIComponent}}">{{name}}</a> <span class="badge">({{entries.length}})</span></li></ul>
+            {{/allTags}}
+        
+        </div>
+     <br>
+       
+       
+    {{> footer}}
+      
+      </div>
+    </div>
+    {{> footer}}
+  </body><br>
+</html>

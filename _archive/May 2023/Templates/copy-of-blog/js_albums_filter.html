@@ -1,0 +1,56 @@
+<script>
+	var gridentries = [
+		{{#all_entries}}
+			{{#tagged.albums}}
+				{{#thumbnail}}
+					{title: "{{title}}", url: "{{url}}", thumbnail: "{{{thumbnail.medium.url}}}", date: "{{date}}", caption: "{{metadata.caption}}", price: "{{metadata.price}}"},
+				{{/thumbnail}}
+			{{/tagged.albums}}
+		{{/all_entries}}
+		];
+  
+  		let thumbs = [];
+		for (let i = 0; i < gridentries.length; i++) {
+   			if (gridentries[i].thumbnail != 0) {
+       			thumbs.push(gridentries[i]);
+   			}
+		}
+
+		function randomNoRepeats(array) {
+  			var entry = array.slice(0);
+			return function() {
+		    	if (entry.length < 1) {
+                	entry = array.slice(0);
+                }
+    			var index = Math.floor(Math.random() * entry.length);
+    			var item = entry[index];
+    			entry.splice(index, 1);
+    			return item;
+  			};
+  		}
+
+		// Pick each of the entries at random
+  		var chooser = randomNoRepeats(thumbs);
+        var j;
+        var gridentry = [];
+        var gridhtml = [];
+		let text_timeline = "";
+        for (j = 0; j < 4; j++) {
+            gridentry[j] = chooser();
+            if (j % 2 === 0) {
+            	gridhtml[j] = '<h2>' + gridentry[j].date + '</h2><a href="' + gridentry[j].url + '"><img src="' + gridentry[j].thumbnail + '"></a>';
+					text_timeline += '<div class="container left"><div class="insides">' + gridhtml[j] + '</div></div>';
+			} else {
+				gridhtml[j] = '<h2>' + gridentry[j].date + '</h2><a href="' + gridentry[j].url + '"><img src="' + gridentry[j].thumbnail + '"></a>';
+					text_timeline += '<div class="container right"><div class="insides">' + gridhtml[j] + '</div></div>';
+			}
+        }
+
+		const setGrid = (id, content) => {
+		  	const item = document.getElementById(id)
+			if (item === null) return
+			item.innerHTML = content
+		}
+
+	setGrid("music_timeline", text_timeline)
+</script>

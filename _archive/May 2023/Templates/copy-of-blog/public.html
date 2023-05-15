@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  {{> head}}
+
+    <body>
+
+  
+
+    
+  
+  
+  
+{{> header}}
+      
+
+   <div class="container">
+  
+      
+    
+    
+    <h1>
+   
+      {{dirname}}
+    </h1>
+     
+     <a href=""><img src="https://i.imgur.com/SPZYdzp.png"></a>
+    
+     <table>
+      {{#contents}}
+    <tr> <td> 
+      <center>  <a class=menu href="{{path}}">{{name}}</a></center>
+      
+      {{/contents}}
+      </td>  </tr>
+       
+     </table>
+    
+      <br>
+      
+      
+{{> footer}}
+
+      
+ 
+    </div>    
+    
+<br><br>
+  </body>
+</html>

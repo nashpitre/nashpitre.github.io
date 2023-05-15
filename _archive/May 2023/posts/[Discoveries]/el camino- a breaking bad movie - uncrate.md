@@ -1,0 +1,9 @@
+Date: 8/26/19
+
+# [El Camino: A Breaking Bad Movie (Release date: October 11, 2019)](https://uncrate.com/video/el-camino-a-breaking-bad-movie/)
+
+https://i.imgur.com/9iLfqVC.jpg
+
+> The rumors can finally be put to rest. The Breaking Bad movie is real. It's also done and coming to Netflix this fall. The show's creator Vince Gilligan wrote and directed the film and it will premiere on the streaming network October 11, 2019, followed by a release at its original home AMC. 
+
+That's so close.

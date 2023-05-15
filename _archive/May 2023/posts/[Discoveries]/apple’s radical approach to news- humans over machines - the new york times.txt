@@ -1,0 +1,9 @@
+Date: 10/25/18
+
+# [Apple’s Radical Approach to News: Humans Over Machines](https://www.nytimes.com/2018/10/25/technology/apple-news-humans-algorithms.html)
+
+> Now Ms. Kern leads roughly 30 former journalists in Sydney, London, New York and Silicon Valley. They spend their days consuming news across the internet, fielding 100 to 200 pitches a day from publishers, and debating which stories get the top spots.
+> 
+> Ultimately, they select five stories to lead the app, with the top two also displayed in a prominent window to the left of the iPhone home screen. They also curate a magazine-style section of feature stories. The lineup typically shifts five or more times a day, depending on the news. A single editor in London typically chooses the first mix of stories for the East Coast’s morning commute before editors in New York and then Cupertino step in.
+
+I started heavily using Apple News last year, teaching it the things I liked and disliked, with hopes that it would eventually get good enough to feed me all the blog articles I've curated on Twitter for over 10 years. I've slowly drifted away from using the News app, but after reading this article and knowing their process behind the app, and how focused they are on it, I've added it back to the dock on my iPad. Time to start using it again.

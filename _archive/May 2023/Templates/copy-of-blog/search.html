@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  {{> head}}
+  
+  {{> header}}
+ 
+  <body>
+    
+      
+    <div class="container">
+        <div class="archives">
+        <br>
+			{{#query}}
+				{{^entries}}
+					<h1>Sorry, nothing found for your query:</h1>
+				{{/entries}}
+			{{/query}}
+
+
+         	<h1>{{query}}</h1>
+				{{#entries}}
+					{{#first}}
+						<ul>
+					{{/first}}
+				{{/entries}}
+				{{#entries}}
+					<li><a href="{{{url}}}">{{title}}</a></li>
+				{{/entries}}
+				{{#entries}}
+					{{#last}}
+					</ul>
+					{{/last}}
+				{{/entries}}
+  
+        </div>
+        
+        
+          <br>
+       {{> footer}}
+    </div>
+   
+  </body><br>
+  
+
+  
+  
+</html>
+
+    
+

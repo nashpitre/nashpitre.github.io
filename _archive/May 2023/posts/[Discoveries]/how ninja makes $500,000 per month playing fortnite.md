@@ -1,0 +1,5 @@
+Date: 1/31/19
+
+# How Ninja makes $500,000 per month playing Fortnite
+
+https://www.youtube.com/watch?v=OPhZ9DAVvHc&feature=share

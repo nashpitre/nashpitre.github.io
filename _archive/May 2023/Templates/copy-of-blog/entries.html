@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  {{> head}} 
+
+  <body>
+	<div class="container">
+	  {{> header}}
+		{{#entries}}
+			{{#tagged.morning coffee}}
+		  <h1>{{{titleTag}}}</h1>
+
+          <div class="alt_font">
+              {{{body}}}
+          </div>
+          {{^last}}
+          	<hr>
+          {{/last}}
+        {{/tagged.morning coffee}}
+		{{/entries}}
+		
+		<br />
+		
+		<hr>
+	
+		{{#pagination}}
+		<center>		
+			{{#next}}
+				<a class="more" href="/page/{{next}}">MORE</a>
+			{{/next}}
+		</center>
+	  {{/pagination}}
+	  
+	  {{> footer}}
+
+	</div>
+	<br>
+  </body>
+</html>

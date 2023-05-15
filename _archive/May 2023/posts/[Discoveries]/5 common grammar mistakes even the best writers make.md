@@ -1,0 +1,7 @@
+Date: 8/8/18
+
+# [5 Common Grammar Mistakes Even the Best Writers Make](https://www.signature-reads.com/2018/07/5-grammar-mistakes-even-best-writers-make/)
+
+> Someone with no interest in words or writing might be more prone to confuse “you’re” and “your” or “its” and “it’s.” At the other end of the spectrum, serious wordsmiths are more inclined to commit errors involving “whom” or coordinate subjects like “John and I.” Here are five errors even the most literate people make.
+
+Here's a few helpful tips.
