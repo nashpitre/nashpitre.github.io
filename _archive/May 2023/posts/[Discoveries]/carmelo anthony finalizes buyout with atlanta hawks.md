@@ -1,7 +1,0 @@
-Date: 7/30/18
-
-# [Carmelo finalized his buyout with Atlanta](http://www.espn.com/nba/story/_/id/24233957/carmelo-anthony-finalizes-buyout-atlanta-hawks)
-
-> Carmelo Anthony has finalized a contract buyout with the Atlanta Hawks and plans to wait until clearing waivers on Wednesday to officially tell the Houston Rockets of his plans to sign a free agent deal, league sources told ESPN.
-
-I know most people aren't high on Anthony anymore, but I've seen what Chris Paul's game does to his teammates. It raises it to another level. Carmelo's talent, with Paul's leadership, could be a bigger deal than what we realize: a move that could change the narrative of both of their careers.

@@ -1,7 +1,0 @@
-Date: 12/6/18
-
-# [An Inside Look at Apple's Biggest Step Yet in Health Care](http://time.com/5472329/apple-watch-ecg/)
-
-> For Apple, this new ECG-on-your-wrist is its biggest bet yet that personal technology will inevitably encompass personal health. Along with competitors, Apple gadgets have already offered fitness functions, such as apps to track the steps you’ve walked. But with the new ECG scan, Apple is moving squarely into medical aspects of health, a distinction underscored by the fact it sought–and received–Food and Drug Administration clearance for the cardiac monitor.
-
-It's hard to believe that I now have an ECG scan on my wrist. The Apple Watch is so ahead of it's time.
