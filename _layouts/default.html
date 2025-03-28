@@ -26,33 +26,5 @@
       <main>
         {{ content }}
       </main>
-
-<hr>
-<!-->
-<center> 
-<i>If you found some value here, consider becoming a member.</i>
-<br><br>
-        
-<form class="contribute" action="https://nashp.memberful.com/checkout" method="get">
-  <input type="hidden" name="plan" value="53002" />
-  <input type="number" name="price" placeholder="Choose what you pay" required="required" min="1.00" step="0.01" />
-  <input type="submit" class="btn" value="Contribute now" />
-</form>
-</center>
-
-<br>
-
-</div>
--->
-    {% if site.ga_analytics %}
-     <script>
-       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-       ga('create', '{{ site.ga_analytics }}', 'auto');
-       ga('send', 'pageview');
-     </script>
-    {% endif %}
   </body>
 </html>
