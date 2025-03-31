@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "projects"
-    url: /projects
+  - title: "email"
+    url: mailto:nashp@me.com
 foot:
   - title: ""
     url: /
