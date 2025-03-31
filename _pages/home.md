@@ -3,6 +3,6 @@ layout: home
 permalink: /index.html
 ---
 
-## March 31st, 2025
+Being a dad to a three year old girl that loves reading books and playing cozy farm games. Preparing for twins in the fall. Doing tech support at our local hospital. Running, lifting, and playing basketball throughout the week. Enjoying silence as much as possible. Slowly writing a novel.
 
-Being a dad to a three year old girl that loves reading books and playing cozy farm games. Preparing for twins in the fall. Doing tech support at our local hospital. Running, lifting, and playing basketball throughout the week. Enjoying silence as much as possible. Any creative energy is now going to writing a novel.
+—*March 31st, 2025*
