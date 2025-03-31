@@ -5,23 +5,27 @@
   <title>{{ site.label }}</title>
 
   <link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
-  <link rel="icon" sizes="144x144" href="{{ '/assets/logo.jpg' | relative_url }}" type="image/jpg">
-  <link rel="shortcut icon" sizes="144x144" href="{{ '/assets/favicon.png' | relative_url }}" type="image/png">
+  <link rel="icon" sizes="144x144" href="{{ '/assets/favicon.png' | relative_url }}" type="image/x-icon">
+  <link rel="shortcut icon" sizes="144x144" href="{{ '/assets/favicon.png' | relative_url }}" type="image/x-icon">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/assets/favicon.png' | relative_url }}" type="image/png">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{'feed.rss' | relative_url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.label }}" href="{{ 'atom.xml' | relative_url }}">
 
   <!-- OG Data -->
+  <meta property="og:url" content="https://nashp.com">
+  <meta property="og:site_name" content="nashp.com">
+  <meta property="og:title" content="nash">
   <meta property="og:image" content="/assets/favicon.png">
-  <meta property="og:description" content="Observations and Obsessions.">
+  <meta property="og:description" content="I'm Nash. I create things.">
   <meta property="og:type" content="blog">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="{{ site.label }}">
   <meta name="twitter:title" content="{{ site.label }}">
-  <meta name="twitter:description" content="Observations and Obsessions.">
+  <meta name="twitter:description" content="I'm Nash. I create things.">
   <meta name="twitter:creator" content="@nashp">
-  <meta name="twitter:image" content="/assets/logo.jpg">
+  <meta name="twitter:image" content="/assets/favicon.png">
   
   <script type="text/javascript" src="assets/js/jquery-3.5.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/bigfoot.min.js"></script>
