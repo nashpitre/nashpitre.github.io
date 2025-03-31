@@ -3,6 +3,6 @@ layout: home
 permalink: /index.html
 ---
 
-## March 27th, 2025
+## March 31st, 2025
 
-Preparing for our new babies. Working at the local hospital. Waking up at 4 am to run and lift. Playing basketball once a week.
+Being a dad to a three year old girl that loves reading books and playing cozy farm games. Preparing for twins in the fall. Doing tech support at our local hospital. Running, lifting, and playing basketball throughout the week. Enjoying silence as much as possible. Any creative energy is now going to writing a novel.
