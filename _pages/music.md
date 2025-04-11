@@ -3,7 +3,7 @@ layout: page
 title: Music
 permalink: music
 ---
-<div class="grid">
+<div class="iframe">
 	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=2462917108/size=large/bgcol=ffffff/linkcol=4ec5ec/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/when-the-satellite-fell">When The Satellite Fell by Nash Pitre</a></iframe>
 	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1240662929/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-illusion-of-progress-3">The Illusion of Progress by Nash Pitre</a></iframe>
 	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3198187528/size=large/bgcol=ffffff/linkcol=4ec5ec/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/chasing-my-ghost">Chasing My Ghost by Nash Pitre</a></iframe>
