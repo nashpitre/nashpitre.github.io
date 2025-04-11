@@ -28,15 +28,14 @@ permalink: music
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=234707312/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/plasticsky">PlasticSky by Nash Pitre</a></iframe>
 
----- 
 
 ## Discography
 
-|      |                                                        |
+| Release |      Title                                          |
 | :--- | ------------------------------------------------------ |
-| 2020 | [When The Satellite Fell](https://nashp.com/satellite) |
-| 2020 | [The Illusion of Progress](https://nashp.com/progress) |
-| 2020 | [Chasing My Ghost](https://nashp.com/ghost)            |
+| 2020 | When The Satellite Fell								|
+| 2020 | The Illusion of Progress								|
+| 2020 | Chasing My Ghost										|
 | 2019 | How We See The World                                   |
 | 2018 | Invisible Man                                          |
 | 2017 | The Loop                                               |
