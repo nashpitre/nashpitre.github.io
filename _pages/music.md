@@ -8,14 +8,12 @@ permalink: music
 	<hr>
 	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1240662929/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-illusion-of-progress-3">The Illusion of Progress by Nash Pitre</a></iframe>
 	<hr>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3198187528/size=large/bgcol=ffffff/linkcol=4ec5ec/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/chasing-my-ghost">Chasing My Ghost by Nash Pitre</a></iframe>
-	<br>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1059399766/size=large/bgcol=ffffff/linkcol=4ec5ec/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/how-we-see-the-world-loop3">How We See The World (LOOP3) by Nash Pitre</a></iframe>
-	<br>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=2481873612/size=large/bgcol=ffffff/linkcol=4ec5ec/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/invisible-man-loop2">Invisible Man (LOOP2) by Nash Pitre</a></iframe>
-	<br>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=4188137459/size=large/bgcol=ffffff/linkcol=4ec5ec/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-loop">The Loop by Nash Pitre</a></iframe>
-	<br>
+	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3198187528/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/chasing-my-ghost">Chasing My Ghost by Nash Pitre</a></iframe>
+	<hr>
+	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1059399766/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/how-we-see-the-world-loop3">How We See The World (LOOP3) by Nash Pitre</a></iframe>
+	<hr>
+	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2481873612/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/invisible-man-loop2">Invisible Man (LOOP2) by Nash Pitre</a></iframe>
+	<hr>
 	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3360601533/size=large/bgcol=ffffff/linkcol=4ec5ec/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/pilot">Pilot by Nash Pitre</a></iframe>
 	<br>
 	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=437070492/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-land-of-unfamiliar">The Land of Unfamiliar by Nash Pitre</a></iframe>
