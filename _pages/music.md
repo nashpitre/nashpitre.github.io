@@ -14,17 +14,17 @@ permalink: music
 	<hr>
 	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2481873612/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/invisible-man-loop2">Invisible Man (LOOP2) by Nash Pitre</a></iframe>
 	<hr>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3360601533/size=large/bgcol=ffffff/linkcol=4ec5ec/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/pilot">Pilot by Nash Pitre</a></iframe>
+	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3360601533/size=large/bgcol=ffffff/linkcol=4ec5ec/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/pilot">Pilot by Nash Pitre</a></iframe>
 	<br>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=437070492/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-land-of-unfamiliar">The Land of Unfamiliar by Nash Pitre</a></iframe>
+	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=437070492/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-land-of-unfamiliar">The Land of Unfamiliar by Nash Pitre</a></iframe>
 	<br>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=639898814/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-mask">The Mask by Nash Pitre</a></iframe>
+	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=639898814/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-mask">The Mask by Nash Pitre</a></iframe>
 	<br>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=2800063558/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-hero-dies">The Hero Dies by Nash Pitre</a></iframe>
+	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2800063558/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/the-hero-dies">The Hero Dies by Nash Pitre</a></iframe>
 	<br>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1465786599/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/for-my-brother">For My Brother by Nash Pitre</a></iframe>
+	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1465786599/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/for-my-brother">For My Brother by Nash Pitre</a></iframe>
 	<br>
-	<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=234707312/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/plasticsky">PlasticSky by Nash Pitre</a></iframe>
+	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=234707312/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/plasticsky">PlasticSky by Nash Pitre</a></iframe>
 </div>
 
 <hr>
