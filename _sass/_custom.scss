@@ -20,8 +20,11 @@
 }*/
 
 svg {
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  fill: var(--body-color);
+  background-color: var(--body-bg);
+  border-radius: 100%;
 }
 
 //iFrame Centering
