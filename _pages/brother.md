@@ -5,7 +5,7 @@ permalink: brother
 ---
 
 1. A Dream
-2. Looking
+2. Please Join Us
 3. Middle Child
 4. I Look Up To You
 5. Your Sobriety
@@ -26,7 +26,7 @@ Trapped inside of a dream, my eyes opened up as a seven-year-old boy, in a pitch
 
 ----
 
-## Looking
+## Please Join Us
 
 Tell me, what you got for me? What you got inside your pocket? Better be profit. 🜃 I’ve been waiting all night for you. A few people tried to talk to me, but I ignored them. Gotta be careful who you’re friends with. By the way, we’re not friends. This is business. Nothing personal. The price talks. Circled around twice, pulled up right here, and turned the lights off. 🜄 I’ve been scoping out the scene. You never know who’s on the other person’s team. Look at your reflection in the mirror. Now ask yourself, should I kill you? Looking for my brother. 🜄 Mother told me I could find him here. Didn’t mean to interrupt you. Apologize, I’m not from here. I can see that you’re busy. Didn’t mean to disturb your business, but my brother’s been gone since six. If you could possibly tell me where is he? 🜄 Well, if you see him, then let him know that dinner’s ready. We cooked spaghetti. Mother told me to tell his friends that’s on the corner: if they’re hungry, we cooked extra. So please join us. 🜁 Please join us. For my brother. Backpack full of cash. I was raised that you exchange at the same time and look the other man in the eyes to show respect. 🜂 I’m young, but family training taught me that. 🜄 I was recruited as a student. I’d get home from school and learn more than I ever did in a classroom. Just open up the bathroom. How could school be useful? Got on the bus and sold to my pupils. Yea, this lifestyle is right for me. Get off the bus and all the kids would run right to me. Too much business. Gotta skip school for the day. Woke up and I suddenly realized that school was in the way. Go! 🜃 Looking for my brother. 🜄 I didn’t see him during school today. Maybe he’s getting sick again. I hope and pray that he’s ok. Mother doesn’t know. She thinks he’s here. I wonder where he’s at? If you see him, tell him I’ll be in the library, near the back. 🜄 A mother’s quote: “I’ve been thinking about some things. You know, if you’d been a preacher, your brothers would have been preachers. 🜂 If you’d been a soldier, they’d be soldiers. 🜃 They came here because of you. You called and they came running. That’s because they look up to you. They always expect you to know what’s best.” 🜄
 
