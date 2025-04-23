@@ -46,4 +46,10 @@ This is a dedication for you. More like inspiration for you. If you ever feel li
 
 ## Your Sobriety
 
-Keep moving forward, I’m so proud of you 🜁 I watched your growth, and now I follow you, constantly. Your potential is unstoppable. I’ve always believed in you, but you defeated something that could’ve easily won 🜃 All of your 20’s, I just remember you being numb and barely there. I would look over to someone half asleep, with a blank stare. A heroin addict 🜄 As you know, that chapter usually doesn’t have a happy ending. I was prepared to lose you. My heart was there for you. But I was prepared for that phone call: it finally got him. He overdosed. Probably wouldn’t have even cried. Knew it was just a matter of time 🜁 I braced myself in case you died. Your sobriety is a sight to see, and honestly, it made me believe in God. 🜂
+Keep moving forward, I’m so proud of you 🜁 I watched your growth, and now I follow you, constantly. Your potential is unstoppable. I’ve always believed in you, but you defeated something that could’ve easily won 🜃 All of your 20’s, I just remember you being numb and barely there. I would look over to someone half asleep, with a blank stare. A heroin addict 🜄 As you know, that chapter usually doesn’t have a happy ending. I was prepared to lose you. My heart was there for you. But I was prepared for that phone call: it finally got him. He overdosed. Probably wouldn’t have even cried. Knew it was just a matter of time 🜁 I braced myself in case you died. Your sobriety is a sight to see, and honestly, it made me believe in God.
+
+----
+
+🜁 🜂 🜃 🜄 🜁 🜃 🜂 🜄 🜁 🜂 🜄 🜃 🜁 🜄 🜂 🜃 🜃 🜁 🜂 🜄 🜃 🜁 🜃 🜄 🜂 🜁 🜃 🜂 🜄 🜁 🜃 🜄 🜂 🜁 🜄 🜃 🜂 🜁 🜂 🜄 🜃 🜁 🜃 🜄 🜂 🜁 🜂 🜃 🜄 🜁 🜄 🜂 🜃 🜁 🜃 🜂 🜄 🜁 🜂 🜄 🜃 🜁 🜃 🜄 🜂 🜁 🜂 🜃 🜄 🜁 🜃 🜂 🜄 🜁 🜂 
+
+----
