@@ -4,7 +4,6 @@ title: For My Brother
 permalink: brother
 ---
 
-# For My Brother
 
 1. A Dream
 2. Looking
