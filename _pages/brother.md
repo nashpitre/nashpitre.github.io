@@ -12,7 +12,7 @@ permalink: brother
 
 ----
 
-<iframe style="border: 0; width: 400px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=1465786599/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/for-my-brother">For My Brother by Nash Pitre</a></iframe>
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=1465786599/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://nashp.bandcamp.com/album/for-my-brother">For My Brother by Nash Pitre</a></iframe>
 
 ----
 
