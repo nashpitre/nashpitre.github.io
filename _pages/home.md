@@ -9,8 +9,6 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 
 *—May 6th, 2025*
 
-![Now](assets/now2.jpg)
-
 ----
 
 ### Daily News
