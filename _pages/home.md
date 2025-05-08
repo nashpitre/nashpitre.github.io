@@ -20,3 +20,7 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
     scrolling="yes">
   </iframe>
 </div>
+
+----
+
+![Now](assets/now2.jpg)
