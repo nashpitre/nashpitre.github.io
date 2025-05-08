@@ -9,18 +9,15 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 
 *—May 6th, 2025*
 
+![Now](assets/now2.jpg)
+
 ----
 
 ### Daily News
 
-<div style="width: 100%; height: 800px; overflow: hidden; position: relative;">
-  <iframe 
+<div style="overflow: hidden; height: 700px; position: relative;">
+  <iframe
     src="https://reederapp.net/Tkkabi0mQNe7RQtZCseHJg"
-    style="position: absolute; top: -300px; left: 0; width: 100%; height: 1200px; border: none;"
-    scrolling="yes">
+    style="position: absolute; top: -300px; left: 0; width: 100%; height: 1000px; border: none;">
   </iframe>
 </div>
-
-----
-
-![Now](assets/now2.jpg)
