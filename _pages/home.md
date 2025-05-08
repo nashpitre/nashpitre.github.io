@@ -8,14 +8,3 @@ permalink: /index.html
 Dad to a little girl that loves reading books and playing Animal Crossing. Preparing for twin boys in the fall. Doing tech support for our local hospital. Running, lifting, and playing basketball daily. Creating in silence.
 
 *—May 6th, 2025*
-
-----
-
-### Daily News
-
-<div style="overflow: hidden; height: 700px; position: relative;">
-  <iframe
-    src="https://reederapp.net/Tkkabi0mQNe7RQtZCseHJg"
-    style="position: absolute; top: -300px; left: 0; width: 100%; height: 1000px; border: none;">
-  </iframe>
-</div>
