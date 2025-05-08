@@ -17,6 +17,6 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
   <iframe 
     src="https://reederapp.net/Tkkabi0mQNe7RQtZCseHJg"
     style="position: absolute; top: -300px; left: 0; width: 100%; height: 1000px; border: none;"
-    scrolling="no">
+    scrolling="yes">
   </iframe>
 </div>
