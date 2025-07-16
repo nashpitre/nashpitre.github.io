@@ -55,7 +55,7 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 </div>
 
 <script>
-fetch("https://reederapp.net/Tkkabi0mQNe7RQtZCseHJg")
+fetch("https://reederapp.net/Tkkabi0mQNe7RQtZCseHJg.json")
   .then(res => res.json())
   .then(data => {
     const paragraph = document.getElementById("news-paragraph");
@@ -90,4 +90,6 @@ fetch("https://reederapp.net/Tkkabi0mQNe7RQtZCseHJg")
     console.error(err);
   });
 </script>
+
+
 <br>
