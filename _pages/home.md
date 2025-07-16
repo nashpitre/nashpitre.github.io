@@ -11,35 +11,53 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 
 ----
 
-### Today's News
+<style>
+  #news-paragraph a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: normal;
+  }
 
-<ul id="news-list">Loading…</ul>
+  #news-paragraph a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<p id="news-paragraph">Loading…</p>
 
 <script>
 fetch("/assets/reeder.json")
   .then(res => res.json())
   .then(data => {
-    const list = document.getElementById("news-list");
-    list.innerHTML = "";
-
+    const paragraph = document.getElementById("news-paragraph");
     const items = (data.items || []).slice(0, 5);
 
-    items.forEach(item => {
-      const li = document.createElement("li");
-      const a = document.createElement("a");
+    if (items.length === 0) {
+      paragraph.textContent = "No news available.";
+      return;
+    }
 
-      a.href = item.url || "#";
-      a.textContent = item.title || "Untitled";
-      a.target = "_blank";
-      a.rel = "noopener noreferrer";
-
-      li.appendChild(a);
-      list.appendChild(li);
+    const links = items.map(item => {
+      const title = item.title || "Untitled";
+      const url = item.url || "#";
+      return `<a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a>`;
     });
+
+    let sentence = "";
+
+    if (links.length === 1) {
+      sentence = links[0];
+    } else if (links.length === 2) {
+      sentence = `${links[0]} and ${links[1]}`;
+    } else {
+      sentence = `${links.slice(0, -1).join(", ")}, and ${links[links.length - 1]}`;
+    }
+
+    paragraph.innerHTML = `Today’s news: ${sentence}.`;
   })
   .catch(err => {
-    document.getElementById("news-list").innerHTML =
-      `<li>Could not load news: ${err.message}</li>`;
+    document.getElementById("news-paragraph").textContent =
+      `Could not load news: ${err.message}`;
     console.error(err);
   });
 </script>
