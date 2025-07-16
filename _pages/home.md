@@ -26,12 +26,6 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 <p id="news-paragraph">Loading…</p>
 
 <script>
-function sentenceCase(text) {
-  if (!text) return "";
-  text = text.trim();
-  return text.charAt(0).toUpperCase() + text.slice(1).toLowerCase();
-}
-
 fetch("/assets/reeder.json")
   .then(res => res.json())
   .then(data => {
@@ -44,7 +38,7 @@ fetch("/assets/reeder.json")
     }
 
     const links = items.map(item => {
-      const title = sentenceCase(item.title || "Untitled");
+      const title = item.title || "Untitled";
       const url = item.url || "#";
       return `<a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a>`;
     });
