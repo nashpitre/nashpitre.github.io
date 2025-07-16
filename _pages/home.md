@@ -10,7 +10,6 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 *—May 6th, 2025*
 
 <br>
-
 <style>
   #news-paragraph {
     border: 1px solid #ccc;
@@ -20,6 +19,7 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;
     color: #333;
+    font-variant: small-caps;
     transition: color 0.3s ease;
   }
 
@@ -36,7 +36,7 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
   @media (prefers-color-scheme: dark) {
     #news-paragraph {
       color: #fff !important;
-      border-color: #555; /* optional, for border contrast */
+      border-color: #555;
     }
   }
 </style>
