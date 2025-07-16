@@ -11,7 +11,7 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 
 <style>
   #news-ticker {
-    background: #111;
+    background: #479db1;
     color: #ddd;
     overflow: hidden;
     white-space: nowrap;
@@ -54,22 +54,25 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 </div>
 
 <script>
+  const tickerContent = document.querySelector("#news-ticker .ticker-content");
+  tickerContent.style.animationPlayState = 'running';
+
   fetch("/assets/reeder.json")
     .then(res => res.json())
     .then(data => {
-      const tickerContent = document.querySelector("#news-ticker .ticker-content");
       const items = (data.items || []).slice(0, 5);
-
+      if (!items.length) {
+        tickerContent.textContent = "No news items found.";
+        return;
+      }
       let html = "";
       items.forEach(item => {
         html += `<a href="${item.url || '#'}" target="_blank" rel="noopener noreferrer">${item.title || 'Untitled'}</a>`;
       });
-
       tickerContent.innerHTML = html;
     })
     .catch(err => {
-      document.querySelector("#news-ticker .ticker-content").textContent =
-        `Could not load news: ${err.message}`;
+      tickerContent.textContent = `Could not load news: ${err.message}`;
       console.error(err);
     });
 </script>
