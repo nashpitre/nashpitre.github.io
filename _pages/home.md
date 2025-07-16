@@ -11,6 +11,8 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 
 ----
 
+Today's news:
+
 <ul id="news-list">Loading…</ul>
 
 <script>
