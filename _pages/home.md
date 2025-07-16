@@ -10,7 +10,14 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 *—May 6th, 2025*
 
 <br>
+
 <style>
+  #news-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+  }
+
   #news-paragraph {
     border: 1px solid #ccc;
     padding: 12px 16px;
@@ -20,7 +27,9 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
     line-height: 1.6;
     color: #333;
     font-variant: small-caps;
-    transition: color 0.3s ease;
+    transition: color 0.3s ease, border-color 0.3s ease;
+    max-width: 600px;
+    text-align: center;
   }
 
   #news-paragraph a {
@@ -41,10 +50,12 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
   }
 </style>
 
-<p id="news-paragraph">Loading…</p>
+<div id="news-container">
+  <p id="news-paragraph">Loading…</p>
+</div>
 
 <script>
-fetch("/assets/reeder.json")
+fetch("https://reederapp.net/Tkkabi0mQNe7RQtZCseHJg")
   .then(res => res.json())
   .then(data => {
     const paragraph = document.getElementById("news-paragraph");
@@ -79,5 +90,4 @@ fetch("/assets/reeder.json")
     console.error(err);
   });
 </script>
-
 <br>
