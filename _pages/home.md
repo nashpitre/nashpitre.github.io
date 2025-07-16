@@ -9,9 +9,17 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 
 *—May 6th, 2025*
 
-----
-
 <style>
+  #news-paragraph {
+    border: 1px solid #ccc;
+    padding: 12px 16px;
+    border-radius: 6px;
+    background: none;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+
   #news-paragraph a {
     color: inherit;
     text-decoration: none;
