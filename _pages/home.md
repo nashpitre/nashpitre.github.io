@@ -20,7 +20,6 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
     padding: 8px 16px;
     font-family: Arial, sans-serif;
     border-radius: 4px;
-    position: relative;
   }
 
   #news-ticker a {
@@ -36,12 +35,8 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
 
   .ticker-content {
     display: inline-block;
-    padding-left: 100%;
-    animation: ticker-scroll linear infinite;
     white-space: nowrap;
-    will-change: transform;
-    position: relative;
-    color: inherit;
+    animation: ticker-scroll 90s linear infinite;
   }
 
   @keyframes ticker-scroll {
@@ -71,18 +66,6 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
       });
 
       tickerContent.innerHTML = html;
-
-      // Duplicate for seamless loop
-      const clone = tickerContent.cloneNode(true);
-      tickerContent.parentNode.appendChild(clone);
-
-      // Adjust animation duration for smooth scroll speed
-      const container = document.getElementById("news-ticker");
-      const contentWidth = tickerContent.offsetWidth;
-      const containerWidth = container.offsetWidth;
-      const duration = (contentWidth + containerWidth) / 100; // px per second speed (adjust 100 to tweak speed)
-      tickerContent.style.animationDuration = duration + "s";
-      clone.style.animationDuration = duration + "s";
     })
     .catch(err => {
       document.querySelector("#news-ticker .ticker-content").textContent =
