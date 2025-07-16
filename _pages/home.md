@@ -19,7 +19,7 @@ Dad to a little girl that loves reading books and playing Animal Crossing. Prepa
   }
 
   #news-paragraph a:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
 </style>
 
